@@ -1,0 +1,381 @@
+{
+  "surah": 107,
+  "ayahs": [
+    {
+      "surah": 107,
+      "ayah": 1,
+      "transliteration": "ara-ayta alladhī yukadhibu bil-dīni",
+      "translation_bn": "তুমি কি তাকে দেখেছ, যে কর্মফল (দিবসকে) অস্বীকার করে?",
+      "words": [
+        {
+          "id": 256,
+          "position": 1,
+          "text_uthmani": "أَرَءَيْتَ",
+          "transliteration": "ara-ayta",
+          "translation_bn": "তুমি কি দেখেছ",
+          "root": "—",
+          "lemma": "أَرَءَيْتَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 257,
+          "position": 2,
+          "text_uthmani": "ٱلَّذِى",
+          "transliteration": "alladhī",
+          "translation_bn": "(তাকে) যে",
+          "root": "—",
+          "lemma": "ٱلَّذِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 258,
+          "position": 3,
+          "text_uthmani": "يُكَذِّبُ",
+          "transliteration": "yukadhibu",
+          "translation_bn": "মিথ্যা অভিহিত করে",
+          "root": "—",
+          "lemma": "يُكَذِّبُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 259,
+          "position": 4,
+          "text_uthmani": "بِٱلدِّينِ",
+          "transliteration": "bil-dīni",
+          "translation_bn": "বিচার দিনকে",
+          "root": "—",
+          "lemma": "بِٱلدِّينِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 260,
+          "position": 5,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 2,
+      "transliteration": "fadhālika alladhī yaduʿʿu l-yatīma",
+      "translation_bn": "সে তো সেই (লোক) যে ইয়াতীমকে ধাক্কা দিয়ে সরিয়ে দেয়,",
+      "words": [
+        {
+          "id": 1007,
+          "position": 1,
+          "text_uthmani": "فَذَٰلِكَ",
+          "transliteration": "fadhālika",
+          "translation_bn": "সে তো সে-ই",
+          "root": "—",
+          "lemma": "فَذَٰلِكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1008,
+          "position": 2,
+          "text_uthmani": "ٱلَّذِى",
+          "transliteration": "alladhī",
+          "translation_bn": "যে",
+          "root": "—",
+          "lemma": "ٱلَّذِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1009,
+          "position": 3,
+          "text_uthmani": "يَدُعُّ",
+          "transliteration": "yaduʿʿu",
+          "translation_bn": "ধাক্কা দেয়",
+          "root": "—",
+          "lemma": "يَدُعُّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1010,
+          "position": 4,
+          "text_uthmani": "ٱلْيَتِيمَ",
+          "transliteration": "l-yatīma",
+          "translation_bn": "ইয়াতিমকে",
+          "root": "—",
+          "lemma": "ٱلْيَتِيمَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1011,
+          "position": 5,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 3,
+      "transliteration": "walā yaḥuḍḍu ʿalā ṭaʿāmi l-mis'kīni",
+      "translation_bn": "এবং মিসকীনকে অন্ন দিতে উৎসাহ দেয় না",
+      "words": [
+        {
+          "id": 2449,
+          "position": 1,
+          "text_uthmani": "وَلَا",
+          "transliteration": "walā",
+          "translation_bn": "এবং না",
+          "root": "—",
+          "lemma": "وَلَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2450,
+          "position": 2,
+          "text_uthmani": "يَحُضُّ",
+          "transliteration": "yaḥuḍḍu",
+          "translation_bn": "উৎসাহিত করে",
+          "root": "—",
+          "lemma": "يَحُضُّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2451,
+          "position": 3,
+          "text_uthmani": "عَلَىٰ",
+          "transliteration": "ʿalā",
+          "translation_bn": "ব্যাপারে",
+          "root": "—",
+          "lemma": "عَلَىٰ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2452,
+          "position": 4,
+          "text_uthmani": "طَعَامِ",
+          "transliteration": "ṭaʿāmi",
+          "translation_bn": "খাদ্যদানের",
+          "root": "—",
+          "lemma": "طَعَامِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2453,
+          "position": 5,
+          "text_uthmani": "ٱلْمِسْكِينِ",
+          "transliteration": "l-mis'kīni",
+          "translation_bn": "অভাবগ্রস্তকে",
+          "root": "—",
+          "lemma": "ٱلْمِسْكِينِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2454,
+          "position": 6,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 4,
+      "transliteration": "fawaylun lil'muṣallīna",
+      "translation_bn": "অতএব দুর্ভোগ সে সব নামায আদায়কারীর",
+      "words": [
+        {
+          "id": 3903,
+          "position": 1,
+          "text_uthmani": "فَوَيْلٌۭ",
+          "transliteration": "fawaylun",
+          "translation_bn": "অতএব দুর্ভোগ",
+          "root": "—",
+          "lemma": "فَوَيْلٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3904,
+          "position": 2,
+          "text_uthmani": "لِّلْمُصَلِّينَ",
+          "transliteration": "lil'muṣallīna",
+          "translation_bn": "(ঐসব) সালাত আদায়কারীদের জন্য",
+          "root": "—",
+          "lemma": "لِّلْمُصَلِّينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3905,
+          "position": 3,
+          "text_uthmani": "٤",
+          "transliteration": "",
+          "translation_bn": "(৪)",
+          "root": "—",
+          "lemma": "٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 5,
+      "transliteration": "alladhīna hum ʿan ṣalātihim sāhūna",
+      "translation_bn": "যারা নিজেদের নামাযের ব্যাপারে উদাসীন,",
+      "words": [
+        {
+          "id": 5264,
+          "position": 1,
+          "text_uthmani": "ٱلَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation_bn": "যাদের (বৈশিষ্ট্য হলো)",
+          "root": "—",
+          "lemma": "ٱلَّذِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5265,
+          "position": 2,
+          "text_uthmani": "هُمْ",
+          "transliteration": "hum",
+          "translation_bn": "তারা",
+          "root": "—",
+          "lemma": "هُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5266,
+          "position": 3,
+          "text_uthmani": "عَن",
+          "transliteration": "ʿan",
+          "translation_bn": "সম্বন্ধে",
+          "root": "—",
+          "lemma": "عَن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5267,
+          "position": 4,
+          "text_uthmani": "صَلَاتِهِمْ",
+          "transliteration": "ṣalātihim",
+          "translation_bn": "তাদের সালাত",
+          "root": "—",
+          "lemma": "صَلَاتِهِمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5268,
+          "position": 5,
+          "text_uthmani": "سَاهُونَ",
+          "transliteration": "sāhūna",
+          "translation_bn": "উদাসীন",
+          "root": "—",
+          "lemma": "سَاهُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5269,
+          "position": 6,
+          "text_uthmani": "٥",
+          "transliteration": "",
+          "translation_bn": "(৫)",
+          "root": "—",
+          "lemma": "٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 6,
+      "transliteration": "alladhīna hum yurāūna",
+      "translation_bn": "যারা লোক দেখানোর জন্য তা করে,",
+      "words": [
+        {
+          "id": 6392,
+          "position": 1,
+          "text_uthmani": "ٱلَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation_bn": "যাদের (বৈশিষ্ট্য হলো)",
+          "root": "—",
+          "lemma": "ٱلَّذِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6393,
+          "position": 2,
+          "text_uthmani": "هُمْ",
+          "transliteration": "hum",
+          "translation_bn": "তারা",
+          "root": "—",
+          "lemma": "هُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6394,
+          "position": 3,
+          "text_uthmani": "يُرَآءُونَ",
+          "transliteration": "yurāūna",
+          "translation_bn": "লোকদেখানোর (কাজ করে)",
+          "root": "—",
+          "lemma": "يُرَآءُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6395,
+          "position": 4,
+          "text_uthmani": "٦",
+          "transliteration": "",
+          "translation_bn": "(৬)",
+          "root": "—",
+          "lemma": "٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 7,
+      "transliteration": "wayamnaʿūna l-māʿūna",
+      "translation_bn": "এবং প্রয়োজনীয় গৃহসামগ্রী দানের ছোট খাট সাহায্য করা থেকেও বিরত থাকে।",
+      "words": [
+        {
+          "id": 7669,
+          "position": 1,
+          "text_uthmani": "وَيَمْنَعُونَ",
+          "transliteration": "wayamnaʿūna",
+          "translation_bn": "এবং দেওয়া হতে বিরত থাকে",
+          "root": "—",
+          "lemma": "وَيَمْنَعُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7670,
+          "position": 2,
+          "text_uthmani": "ٱلْمَاعُونَ",
+          "transliteration": "l-māʿūna",
+          "translation_bn": "সংসারের প্রয়োজনীয় ছোটখাটো জিনিসের",
+          "root": "—",
+          "lemma": "ٱلْمَاعُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7671,
+          "position": 3,
+          "text_uthmani": "٧",
+          "transliteration": "",
+          "translation_bn": "(৭)",
+          "root": "—",
+          "lemma": "٧",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

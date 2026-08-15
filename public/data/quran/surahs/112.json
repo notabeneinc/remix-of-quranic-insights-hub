@@ -1,0 +1,227 @@
+{
+  "surah": 112,
+  "ayahs": [
+    {
+      "surah": 112,
+      "ayah": 1,
+      "transliteration": "qul huwa l-lahu aḥadun",
+      "translation_bn": "বল, তিনি আল্লাহ, এক অদ্বিতীয়,",
+      "words": [
+        {
+          "id": 6,
+          "position": 1,
+          "text_uthmani": "قُلْ",
+          "transliteration": "qul",
+          "translation_bn": "বলো",
+          "root": "—",
+          "lemma": "قُلْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7,
+          "position": 2,
+          "text_uthmani": "هُوَ",
+          "transliteration": "huwa",
+          "translation_bn": "\"তিনি",
+          "root": "—",
+          "lemma": "هُوَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 8,
+          "position": 3,
+          "text_uthmani": "ٱللَّهُ",
+          "transliteration": "l-lahu",
+          "translation_bn": "আল্লাহ",
+          "root": "—",
+          "lemma": "ٱللَّهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9,
+          "position": 4,
+          "text_uthmani": "أَحَدٌ",
+          "transliteration": "aḥadun",
+          "translation_bn": "এক-অদ্বিতীয়",
+          "root": "—",
+          "lemma": "أَحَدٌ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 10,
+          "position": 5,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 112,
+      "ayah": 2,
+      "transliteration": "al-lahu l-ṣamadu",
+      "translation_bn": "আল্লাহ কোন কিছুর মুখাপেক্ষী নন, সবই তাঁর মুখাপেক্ষী,",
+      "words": [
+        {
+          "id": 916,
+          "position": 1,
+          "text_uthmani": "ٱللَّهُ",
+          "transliteration": "al-lahu",
+          "translation_bn": "আল্লাহ",
+          "root": "—",
+          "lemma": "ٱللَّهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 917,
+          "position": 2,
+          "text_uthmani": "ٱلصَّمَدُ",
+          "transliteration": "l-ṣamadu",
+          "translation_bn": "অমুখাপেক্ষী",
+          "root": "—",
+          "lemma": "ٱلصَّمَدُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 918,
+          "position": 3,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 112,
+      "ayah": 3,
+      "transliteration": "lam yalid walam yūlad",
+      "translation_bn": "তিনি কাউকে জন্ম দেন না, আর তাঁকেও জন্ম দেয়া হয়নি।",
+      "words": [
+        {
+          "id": 2746,
+          "position": 1,
+          "text_uthmani": "لَمْ",
+          "transliteration": "lam",
+          "translation_bn": "নি",
+          "root": "—",
+          "lemma": "لَمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2747,
+          "position": 2,
+          "text_uthmani": "يَلِدْ",
+          "transliteration": "yalid",
+          "translation_bn": "তিনি (কাউকে) জন্ম দেন",
+          "root": "—",
+          "lemma": "يَلِدْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2748,
+          "position": 3,
+          "text_uthmani": "وَلَمْ",
+          "transliteration": "walam",
+          "translation_bn": "এবং নি",
+          "root": "—",
+          "lemma": "وَلَمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2749,
+          "position": 4,
+          "text_uthmani": "يُولَدْ",
+          "transliteration": "yūlad",
+          "translation_bn": "তাঁকে জন্ম দেয়া হয়",
+          "root": "—",
+          "lemma": "يُولَدْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2750,
+          "position": 5,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 112,
+      "ayah": 4,
+      "transliteration": "walam yakun lahu kufuwan aḥadun",
+      "translation_bn": "তাঁর সমকক্ষ কেউ নয়।",
+      "words": [
+        {
+          "id": 4136,
+          "position": 1,
+          "text_uthmani": "وَلَمْ",
+          "transliteration": "walam",
+          "translation_bn": "এবং নাই",
+          "root": "—",
+          "lemma": "وَلَمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4137,
+          "position": 2,
+          "text_uthmani": "يَكُن",
+          "transliteration": "yakun",
+          "translation_bn": "(হয়)",
+          "root": "—",
+          "lemma": "يَكُن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4138,
+          "position": 3,
+          "text_uthmani": "لَّهُۥ",
+          "transliteration": "lahu",
+          "translation_bn": "তাঁর",
+          "root": "—",
+          "lemma": "لَّهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4139,
+          "position": 4,
+          "text_uthmani": "كُفُوًا",
+          "transliteration": "kufuwan",
+          "translation_bn": "সমতুল্য/ সমান",
+          "root": "—",
+          "lemma": "كُفُوًا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4140,
+          "position": 5,
+          "text_uthmani": "أَحَدٌۢ",
+          "transliteration": "aḥadun",
+          "translation_bn": "কেউই\"",
+          "root": "—",
+          "lemma": "أَحَدٌۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4141,
+          "position": 6,
+          "text_uthmani": "٤",
+          "transliteration": "",
+          "translation_bn": "(৪)",
+          "root": "—",
+          "lemma": "٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

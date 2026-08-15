@@ -1,0 +1,159 @@
+{
+  "surah": 108,
+  "ayahs": [
+    {
+      "surah": 108,
+      "ayah": 1,
+      "transliteration": "innā aʿṭaynāka l-kawthara",
+      "translation_bn": "আমি তোমাকে (হাওযে) কাওসার দান করেছি।",
+      "words": [
+        {
+          "id": 276,
+          "position": 1,
+          "text_uthmani": "إِنَّآ",
+          "transliteration": "innā",
+          "translation_bn": "নিশ্চয়ই আমরা",
+          "root": "—",
+          "lemma": "إِنَّآ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 277,
+          "position": 2,
+          "text_uthmani": "أَعْطَيْنَـٰكَ",
+          "transliteration": "aʿṭaynāka",
+          "translation_bn": "আমরা তোমাকে দিয়েছি",
+          "root": "—",
+          "lemma": "أَعْطَيْنَـٰكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 278,
+          "position": 3,
+          "text_uthmani": "ٱلْكَوْثَرَ",
+          "transliteration": "l-kawthara",
+          "translation_bn": "কাউসার",
+          "root": "—",
+          "lemma": "ٱلْكَوْثَرَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 279,
+          "position": 4,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 108,
+      "ayah": 2,
+      "transliteration": "faṣalli lirabbika wa-in'ḥar",
+      "translation_bn": "কাজেই তুমি তোমার প্রতিপালকের উদ্দেশ্যে নামায আদায় কর এবং কুরবানী কর,",
+      "words": [
+        {
+          "id": 996,
+          "position": 1,
+          "text_uthmani": "فَصَلِّ",
+          "transliteration": "faṣalli",
+          "translation_bn": "সুতরাং তুমি সালাত পড়ো",
+          "root": "—",
+          "lemma": "فَصَلِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 997,
+          "position": 2,
+          "text_uthmani": "لِرَبِّكَ",
+          "transliteration": "lirabbika",
+          "translation_bn": "তোমার রবের উদ্দেশ্যে",
+          "root": "—",
+          "lemma": "لِرَبِّكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 998,
+          "position": 3,
+          "text_uthmani": "وَٱنْحَرْ",
+          "transliteration": "wa-in'ḥar",
+          "translation_bn": "এবং তুমি কুরবানী করো",
+          "root": "—",
+          "lemma": "وَٱنْحَرْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 999,
+          "position": 4,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 108,
+      "ayah": 3,
+      "transliteration": "inna shāni-aka huwa l-abtaru",
+      "translation_bn": "(তোমার নাম-চিহ্ন কোন দিন মুছবে না, বরং) তোমার প্রতি বিদ্বেষ পোষণকারীরাই নাম চিহ্নহীন- নির্মূল।",
+      "words": [
+        {
+          "id": 2556,
+          "position": 1,
+          "text_uthmani": "إِنَّ",
+          "transliteration": "inna",
+          "translation_bn": "নিশ্চয়ই",
+          "root": "—",
+          "lemma": "إِنَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2557,
+          "position": 2,
+          "text_uthmani": "شَانِئَكَ",
+          "transliteration": "shāni-aka",
+          "translation_bn": "তোমার দুশমন",
+          "root": "—",
+          "lemma": "شَانِئَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2558,
+          "position": 3,
+          "text_uthmani": "هُوَ",
+          "transliteration": "huwa",
+          "translation_bn": "সে-ই তো",
+          "root": "—",
+          "lemma": "هُوَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2559,
+          "position": 4,
+          "text_uthmani": "ٱلْأَبْتَرُ",
+          "transliteration": "l-abtaru",
+          "translation_bn": "নির্বংশ",
+          "root": "—",
+          "lemma": "ٱلْأَبْتَرُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2560,
+          "position": 5,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

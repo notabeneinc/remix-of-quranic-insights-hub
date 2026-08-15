@@ -1,0 +1,247 @@
+{
+  "surah": 106,
+  "ayahs": [
+    {
+      "surah": 106,
+      "ayah": 1,
+      "transliteration": "liīlāfi qurayshin",
+      "translation_bn": "কুরাইশদের অভ্যস্ত হওয়ার কারণে,",
+      "words": [
+        {
+          "id": 266,
+          "position": 1,
+          "text_uthmani": "لِإِيلَـٰفِ",
+          "transliteration": "liīlāfi",
+          "translation_bn": "যেহেতু আসক্তি আছে",
+          "root": "—",
+          "lemma": "لِإِيلَـٰفِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 267,
+          "position": 2,
+          "text_uthmani": "قُرَيْشٍ",
+          "transliteration": "qurayshin",
+          "translation_bn": "কুরাইশদের",
+          "root": "—",
+          "lemma": "قُرَيْشٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 268,
+          "position": 3,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 106,
+      "ayah": 2,
+      "transliteration": "īlāfihim riḥ'lata l-shitāi wal-ṣayfi",
+      "translation_bn": "(অর্থাৎ) শীত ও গ্রীষ্মে তাদের বিদেশ সফরে অভ্যস্ত হওয়ার (কারণে)",
+      "words": [
+        {
+          "id": 961,
+          "position": 1,
+          "text_uthmani": "إِۦلَـٰفِهِمْ",
+          "transliteration": "īlāfihim",
+          "translation_bn": "আসক্তি আছে",
+          "root": "—",
+          "lemma": "إِۦلَـٰفِهِمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 962,
+          "position": 2,
+          "text_uthmani": "رِحْلَةَ",
+          "transliteration": "riḥ'lata",
+          "translation_bn": "ভ্রমণে",
+          "root": "—",
+          "lemma": "رِحْلَةَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 963,
+          "position": 3,
+          "text_uthmani": "ٱلشِّتَآءِ",
+          "transliteration": "l-shitāi",
+          "translation_bn": "শীতের",
+          "root": "—",
+          "lemma": "ٱلشِّتَآءِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 964,
+          "position": 4,
+          "text_uthmani": "وَٱلصَّيْفِ",
+          "transliteration": "wal-ṣayfi",
+          "translation_bn": "ও গ্রীষ্মের",
+          "root": "—",
+          "lemma": "وَٱلصَّيْفِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 965,
+          "position": 5,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 106,
+      "ayah": 3,
+      "transliteration": "falyaʿbudū rabba hādhā l-bayti",
+      "translation_bn": "তাদের কর্তব্য হল এই (কা‘বা) ঘরের রবের ‘ইবাদাত করা,",
+      "words": [
+        {
+          "id": 2411,
+          "position": 1,
+          "text_uthmani": "فَلْيَعْبُدُوا۟",
+          "transliteration": "falyaʿbudū",
+          "translation_bn": "অতএব তারা ইবাদত করুক",
+          "root": "—",
+          "lemma": "فَلْيَعْبُدُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2412,
+          "position": 2,
+          "text_uthmani": "رَبَّ",
+          "transliteration": "rabba",
+          "translation_bn": "রবের",
+          "root": "—",
+          "lemma": "رَبَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2413,
+          "position": 3,
+          "text_uthmani": "هَـٰذَا",
+          "transliteration": "hādhā",
+          "translation_bn": "এই",
+          "root": "—",
+          "lemma": "هَـٰذَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2414,
+          "position": 4,
+          "text_uthmani": "ٱلْبَيْتِ",
+          "transliteration": "l-bayti",
+          "translation_bn": "ঘরের",
+          "root": "—",
+          "lemma": "ٱلْبَيْتِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2415,
+          "position": 5,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 106,
+      "ayah": 4,
+      "transliteration": "alladhī aṭʿamahum min jūʿin waāmanahum min khawfin",
+      "translation_bn": "যিনি তাদেরকে (কা‘বা ঘরের খাদিম হওয়ার কারণে নির্বিঘ্নে ব্যবসা-বাণিজ্যের মাধ্যমে) ক্ষুধায় খাদ্য দিচ্ছেন এবং তাদেরকে ভয়-ভীতি হতে নিরাপদ করেছেন।",
+      "words": [
+        {
+          "id": 3906,
+          "position": 1,
+          "text_uthmani": "ٱلَّذِىٓ",
+          "transliteration": "alladhī",
+          "translation_bn": "যিনি",
+          "root": "—",
+          "lemma": "ٱلَّذِىٓ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3907,
+          "position": 2,
+          "text_uthmani": "أَطْعَمَهُم",
+          "transliteration": "aṭʿamahum",
+          "translation_bn": "তাদেরকে খাবার দিয়েছেন",
+          "root": "—",
+          "lemma": "أَطْعَمَهُم",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3908,
+          "position": 3,
+          "text_uthmani": "مِّن",
+          "transliteration": "min",
+          "translation_bn": "হতে",
+          "root": "—",
+          "lemma": "مِّن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3909,
+          "position": 4,
+          "text_uthmani": "جُوعٍۢ",
+          "transliteration": "jūʿin",
+          "translation_bn": "ক্ষুধা",
+          "root": "—",
+          "lemma": "جُوعٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3910,
+          "position": 5,
+          "text_uthmani": "وَءَامَنَهُم",
+          "transliteration": "waāmanahum",
+          "translation_bn": "এবং তাদের নিরাপত্তা দিয়েছেন",
+          "root": "—",
+          "lemma": "وَءَامَنَهُم",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3911,
+          "position": 6,
+          "text_uthmani": "مِّنْ",
+          "transliteration": "min",
+          "translation_bn": "হতে",
+          "root": "—",
+          "lemma": "مِّنْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3912,
+          "position": 7,
+          "text_uthmani": "خَوْفٍۭ",
+          "transliteration": "khawfin",
+          "translation_bn": "ভয়",
+          "root": "—",
+          "lemma": "خَوْفٍۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3913,
+          "position": 8,
+          "text_uthmani": "٤",
+          "transliteration": "",
+          "translation_bn": "(৪)",
+          "root": "—",
+          "lemma": "٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

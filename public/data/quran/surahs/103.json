@@ -1,0 +1,199 @@
+{
+  "surah": 103,
+  "ayahs": [
+    {
+      "surah": 103,
+      "ayah": 1,
+      "transliteration": "wal-ʿaṣri",
+      "translation_bn": "কালের শপথ",
+      "words": [
+        {
+          "id": 177,
+          "position": 1,
+          "text_uthmani": "وَٱلْعَصْرِ",
+          "transliteration": "wal-ʿaṣri",
+          "translation_bn": "শপথ মহাকালের",
+          "root": "—",
+          "lemma": "وَٱلْعَصْرِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 178,
+          "position": 2,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 103,
+      "ayah": 2,
+      "transliteration": "inna l-insāna lafī khus'rin",
+      "translation_bn": "মানুষ অবশ্যই ক্ষতির মধ্যে (ডুবে) আছে,",
+      "words": [
+        {
+          "id": 1056,
+          "position": 1,
+          "text_uthmani": "إِنَّ",
+          "transliteration": "inna",
+          "translation_bn": "নিশ্চয়ই",
+          "root": "—",
+          "lemma": "إِنَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1057,
+          "position": 2,
+          "text_uthmani": "ٱلْإِنسَـٰنَ",
+          "transliteration": "l-insāna",
+          "translation_bn": "মানুষ",
+          "root": "—",
+          "lemma": "ٱلْإِنسَـٰنَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1058,
+          "position": 3,
+          "text_uthmani": "لَفِى",
+          "transliteration": "lafī",
+          "translation_bn": "অবশ্যই মধ্যে",
+          "root": "—",
+          "lemma": "لَفِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1059,
+          "position": 4,
+          "text_uthmani": "خُسْرٍ",
+          "transliteration": "khus'rin",
+          "translation_bn": "ক্ষতির",
+          "root": "—",
+          "lemma": "خُسْرٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1060,
+          "position": 5,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 103,
+      "ayah": 3,
+      "transliteration": "illā alladhīna āmanū waʿamilū l-ṣāliḥāti watawāṣaw bil-ḥaqi watawāṣaw bil-ṣabri",
+      "translation_bn": "কিন্তু তারা নয় যারা ঈমান আনে ও সৎকর্ম করে এবং পরস্পরকে সত্যের উপদেশ দেয় এবং পরস্পরকে ধৈর্য ধারণের উপদেশ দেয়।",
+      "words": [
+        {
+          "id": 2213,
+          "position": 1,
+          "text_uthmani": "إِلَّا",
+          "transliteration": "illā",
+          "translation_bn": "(তাদের) ছাড়া",
+          "root": "—",
+          "lemma": "إِلَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2214,
+          "position": 2,
+          "text_uthmani": "ٱلَّذِينَ",
+          "transliteration": "alladhīna",
+          "translation_bn": "যারা",
+          "root": "—",
+          "lemma": "ٱلَّذِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2215,
+          "position": 3,
+          "text_uthmani": "ءَامَنُوا۟",
+          "transliteration": "āmanū",
+          "translation_bn": "ঈমান এনেছে",
+          "root": "—",
+          "lemma": "ءَامَنُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2216,
+          "position": 4,
+          "text_uthmani": "وَعَمِلُوا۟",
+          "transliteration": "waʿamilū",
+          "translation_bn": "এবং করেছে",
+          "root": "—",
+          "lemma": "وَعَمِلُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2217,
+          "position": 5,
+          "text_uthmani": "ٱلصَّـٰلِحَـٰتِ",
+          "transliteration": "l-ṣāliḥāti",
+          "translation_bn": "সৎকর্মের",
+          "root": "—",
+          "lemma": "ٱلصَّـٰلِحَـٰتِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2218,
+          "position": 6,
+          "text_uthmani": "وَتَوَاصَوْا۟",
+          "transliteration": "watawāṣaw",
+          "translation_bn": "এবং পরস্পরকে উপদেশ দিয়েছে",
+          "root": "—",
+          "lemma": "وَتَوَاصَوْا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2219,
+          "position": 7,
+          "text_uthmani": "بِٱلْحَقِّ",
+          "transliteration": "bil-ḥaqi",
+          "translation_bn": "সত্যের",
+          "root": "—",
+          "lemma": "بِٱلْحَقِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2220,
+          "position": 8,
+          "text_uthmani": "وَتَوَاصَوْا۟",
+          "transliteration": "watawāṣaw",
+          "translation_bn": "ও পরস্পরকে উপদেশ দিয়েছে",
+          "root": "—",
+          "lemma": "وَتَوَاصَوْا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2221,
+          "position": 9,
+          "text_uthmani": "بِٱلصَّبْرِ",
+          "transliteration": "bil-ṣabri",
+          "translation_bn": "ধৈর্যের",
+          "root": "—",
+          "lemma": "بِٱلصَّبْرِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2222,
+          "position": 10,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

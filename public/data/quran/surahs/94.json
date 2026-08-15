@@ -1,0 +1,419 @@
+{
+  "surah": 94,
+  "ayahs": [
+    {
+      "surah": 94,
+      "ayah": 1,
+      "transliteration": "alam nashraḥ laka ṣadraka",
+      "translation_bn": "(হে নবী! ওয়াহীর মাধ্যমে প্রকৃত জ্ঞান ও মানসিক শক্তি দিয়ে) আমি কি তোমার বক্ষদেশকে প্রসারিত করে দেইনি?",
+      "words": [
+        {
+          "id": 188,
+          "position": 1,
+          "text_uthmani": "أَلَمْ",
+          "transliteration": "alam",
+          "translation_bn": "করি দিই নি?",
+          "root": "—",
+          "lemma": "أَلَمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 189,
+          "position": 2,
+          "text_uthmani": "نَشْرَحْ",
+          "transliteration": "nashraḥ",
+          "translation_bn": "আমরা উন্মুক্ত",
+          "root": "—",
+          "lemma": "نَشْرَحْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 190,
+          "position": 3,
+          "text_uthmani": "لَكَ",
+          "transliteration": "laka",
+          "translation_bn": "তোমার জন্যে",
+          "root": "—",
+          "lemma": "لَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 191,
+          "position": 4,
+          "text_uthmani": "صَدْرَكَ",
+          "transliteration": "ṣadraka",
+          "translation_bn": "তোমার বক্ষকে",
+          "root": "—",
+          "lemma": "صَدْرَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 192,
+          "position": 5,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 2,
+      "transliteration": "wawaḍaʿnā ʿanka wiz'raka",
+      "translation_bn": "আর আমি তোমার হতে সরিয়ে দিয়েছি (সমাজের অনাচার, অশ্লীলতা ও পঙ্কিলতা দেখে তোমার অন্তরে জেগে উঠা দুঃখ, বেদনা, উদ্বেগ ও অস্থিরতার) ভার,",
+      "words": [
+        {
+          "id": 1361,
+          "position": 1,
+          "text_uthmani": "وَوَضَعْنَا",
+          "transliteration": "wawaḍaʿnā",
+          "translation_bn": "এবং আমরা নামিয়েছি",
+          "root": "—",
+          "lemma": "وَوَضَعْنَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1362,
+          "position": 2,
+          "text_uthmani": "عَنكَ",
+          "transliteration": "ʿanka",
+          "translation_bn": "তোমার থেকে",
+          "root": "—",
+          "lemma": "عَنكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1363,
+          "position": 3,
+          "text_uthmani": "وِزْرَكَ",
+          "transliteration": "wiz'raka",
+          "translation_bn": "তোমার ভার",
+          "root": "—",
+          "lemma": "وِزْرَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1364,
+          "position": 4,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 3,
+      "transliteration": "alladhī anqaḍa ẓahraka",
+      "translation_bn": "যা তোমার কোমরকে ভেঙ্গে দিচ্ছিল।",
+      "words": [
+        {
+          "id": 2546,
+          "position": 1,
+          "text_uthmani": "ٱلَّذِىٓ",
+          "transliteration": "alladhī",
+          "translation_bn": "যা",
+          "root": "—",
+          "lemma": "ٱلَّذِىٓ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2547,
+          "position": 2,
+          "text_uthmani": "أَنقَضَ",
+          "transliteration": "anqaḍa",
+          "translation_bn": "ভেঙ্গে দিচ্ছিলো",
+          "root": "—",
+          "lemma": "أَنقَضَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2548,
+          "position": 3,
+          "text_uthmani": "ظَهْرَكَ",
+          "transliteration": "ẓahraka",
+          "translation_bn": "তোমার পিঠ",
+          "root": "—",
+          "lemma": "ظَهْرَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2549,
+          "position": 4,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 4,
+      "transliteration": "warafaʿnā laka dhik'raka",
+      "translation_bn": "এবং আমি (মু’মিনদের যাবতীয় আবশ্যিক ‘ইবাদাত আযান, ইক্বামাত, নামায, খুৎবাহ ইত্যাদির মাধ্যমে) তোমার স্মৃতিকে উচ্চ মর্যাদায় তুলে ধরেছি।",
+      "words": [
+        {
+          "id": 3914,
+          "position": 1,
+          "text_uthmani": "وَرَفَعْنَا",
+          "transliteration": "warafaʿnā",
+          "translation_bn": "ও আমরা সুউচ্চ করেছি",
+          "root": "—",
+          "lemma": "وَرَفَعْنَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3915,
+          "position": 2,
+          "text_uthmani": "لَكَ",
+          "transliteration": "laka",
+          "translation_bn": "তোমার জন্যে",
+          "root": "—",
+          "lemma": "لَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3916,
+          "position": 3,
+          "text_uthmani": "ذِكْرَكَ",
+          "transliteration": "dhik'raka",
+          "translation_bn": "তোমার খ্যাতি/ স্মরণকে",
+          "root": "—",
+          "lemma": "ذِكْرَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3917,
+          "position": 4,
+          "text_uthmani": "٤",
+          "transliteration": "",
+          "translation_bn": "(৪)",
+          "root": "—",
+          "lemma": "٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 5,
+      "transliteration": "fa-inna maʿa l-ʿus'ri yus'ran",
+      "translation_bn": "কষ্টের সাথেই স্বস্তি আছে,",
+      "words": [
+        {
+          "id": 5270,
+          "position": 1,
+          "text_uthmani": "فَإِنَّ",
+          "transliteration": "fa-inna",
+          "translation_bn": "অতএব নিশ্চয়ই",
+          "root": "—",
+          "lemma": "فَإِنَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5271,
+          "position": 2,
+          "text_uthmani": "مَعَ",
+          "transliteration": "maʿa",
+          "translation_bn": "সাথে",
+          "root": "—",
+          "lemma": "مَعَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5272,
+          "position": 3,
+          "text_uthmani": "ٱلْعُسْرِ",
+          "transliteration": "l-ʿus'ri",
+          "translation_bn": "কষ্টের",
+          "root": "—",
+          "lemma": "ٱلْعُسْرِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5273,
+          "position": 4,
+          "text_uthmani": "يُسْرًا",
+          "transliteration": "yus'ran",
+          "translation_bn": "স্বস্তি (আছে)",
+          "root": "—",
+          "lemma": "يُسْرًا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5274,
+          "position": 5,
+          "text_uthmani": "٥",
+          "transliteration": "",
+          "translation_bn": "(৫)",
+          "root": "—",
+          "lemma": "٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 6,
+      "transliteration": "inna maʿa l-ʿus'ri yus'ran",
+      "translation_bn": "নিঃসন্দেহে কষ্টের সাথেই স্বস্তি আছে।",
+      "words": [
+        {
+          "id": 6456,
+          "position": 1,
+          "text_uthmani": "إِنَّ",
+          "transliteration": "inna",
+          "translation_bn": "নিশ্চয়ই",
+          "root": "—",
+          "lemma": "إِنَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6457,
+          "position": 2,
+          "text_uthmani": "مَعَ",
+          "transliteration": "maʿa",
+          "translation_bn": "সাথে",
+          "root": "—",
+          "lemma": "مَعَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6458,
+          "position": 3,
+          "text_uthmani": "ٱلْعُسْرِ",
+          "transliteration": "l-ʿus'ri",
+          "translation_bn": "কষ্টের",
+          "root": "—",
+          "lemma": "ٱلْعُسْرِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6459,
+          "position": 4,
+          "text_uthmani": "يُسْرًۭا",
+          "transliteration": "yus'ran",
+          "translation_bn": "স্বস্তি (আছে)",
+          "root": "—",
+          "lemma": "يُسْرًۭا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6460,
+          "position": 5,
+          "text_uthmani": "٦",
+          "transliteration": "",
+          "translation_bn": "(৬)",
+          "root": "—",
+          "lemma": "٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 7,
+      "transliteration": "fa-idhā faraghta fa-inṣab",
+      "translation_bn": "কাজেই তুমি যখনই অবসর পাবে, ‘ইবাদাতের কঠোর শ্রমে লেগে যাবে,",
+      "words": [
+        {
+          "id": 7614,
+          "position": 1,
+          "text_uthmani": "فَإِذَا",
+          "transliteration": "fa-idhā",
+          "translation_bn": "অতএব যখনই",
+          "root": "—",
+          "lemma": "فَإِذَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7615,
+          "position": 2,
+          "text_uthmani": "فَرَغْتَ",
+          "transliteration": "faraghta",
+          "translation_bn": "তুমি অবসর হও",
+          "root": "—",
+          "lemma": "فَرَغْتَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7616,
+          "position": 3,
+          "text_uthmani": "فَٱنصَبْ",
+          "transliteration": "fa-inṣab",
+          "translation_bn": "তুমি তখন ইবাদাত করো",
+          "root": "—",
+          "lemma": "فَٱنصَبْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7617,
+          "position": 4,
+          "text_uthmani": "٧",
+          "transliteration": "",
+          "translation_bn": "(৭)",
+          "root": "—",
+          "lemma": "٧",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 8,
+      "transliteration": "wa-ilā rabbika fa-ir'ghab",
+      "translation_bn": "এবং তোমার রব-এর প্রতি গভীরভাবে মনোযোগ দিবে।",
+      "words": [
+        {
+          "id": 9077,
+          "position": 1,
+          "text_uthmani": "وَإِلَىٰ",
+          "transliteration": "wa-ilā",
+          "translation_bn": "এবং প্রতি",
+          "root": "—",
+          "lemma": "وَإِلَىٰ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9078,
+          "position": 2,
+          "text_uthmani": "رَبِّكَ",
+          "transliteration": "rabbika",
+          "translation_bn": "তোমার রবের",
+          "root": "—",
+          "lemma": "رَبِّكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9079,
+          "position": 3,
+          "text_uthmani": "فَٱرْغَب",
+          "transliteration": "fa-ir'ghab",
+          "translation_bn": "তখন মনোনিবেশ করো",
+          "root": "—",
+          "lemma": "فَٱرْغَب",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9080,
+          "position": 4,
+          "text_uthmani": "٨",
+          "transliteration": "",
+          "translation_bn": "(৮)",
+          "root": "—",
+          "lemma": "٨",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3521 @@
+{
+  "surah": 69,
+  "ayahs": [
+    {
+      "surah": 69,
+      "ayah": 1,
+      "transliteration": "al-ḥāqatu",
+      "translation_bn": "নিশ্চিত সংঘটিতব্য বিষয়,",
+      "words": [
+        {
+          "id": 588,
+          "position": 1,
+          "text_uthmani": "ٱلْحَآقَّةُ",
+          "transliteration": "al-ḥāqatu",
+          "translation_bn": "সুনিশ্চিত ঘটনা!",
+          "root": "—",
+          "lemma": "ٱلْحَآقَّةُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 589,
+          "position": 2,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 2,
+      "transliteration": "mā l-ḥāqatu",
+      "translation_bn": "কী সেই নিশ্চিত সংঘটিতব্য বিষয়?",
+      "words": [
+        {
+          "id": 1484,
+          "position": 1,
+          "text_uthmani": "مَا",
+          "transliteration": "mā",
+          "translation_bn": "কি সেই?",
+          "root": "—",
+          "lemma": "مَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1485,
+          "position": 2,
+          "text_uthmani": "ٱلْحَآقَّةُ",
+          "transliteration": "l-ḥāqatu",
+          "translation_bn": "সুনিশ্চিত ঘটনা",
+          "root": "—",
+          "lemma": "ٱلْحَآقَّةُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 1486,
+          "position": 3,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 3,
+      "transliteration": "wamā adrāka mā l-ḥāqatu",
+      "translation_bn": "আর তুমি কি জান কী সেই নিশ্চিত সংঘটিতব্য বিষয়?",
+      "words": [
+        {
+          "id": 2561,
+          "position": 1,
+          "text_uthmani": "وَمَآ",
+          "transliteration": "wamā",
+          "translation_bn": "এবং কি?",
+          "root": "—",
+          "lemma": "وَمَآ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2562,
+          "position": 2,
+          "text_uthmani": "أَدْرَىٰكَ",
+          "transliteration": "adrāka",
+          "translation_bn": "জান তুমি",
+          "root": "—",
+          "lemma": "أَدْرَىٰكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2563,
+          "position": 3,
+          "text_uthmani": "مَا",
+          "transliteration": "mā",
+          "translation_bn": "কি সেই",
+          "root": "—",
+          "lemma": "مَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2564,
+          "position": 4,
+          "text_uthmani": "ٱلْحَآقَّةُ",
+          "transliteration": "l-ḥāqatu",
+          "translation_bn": "সুনিশ্চিত ঘটনা",
+          "root": "—",
+          "lemma": "ٱلْحَآقَّةُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2565,
+          "position": 5,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 4,
+      "transliteration": "kadhabat thamūdu waʿādun bil-qāriʿati",
+      "translation_bn": "‘আদ ও সামূদ জাতি সেই আকস্মিকভাবে সংঘটিতব্য মহাবিপদকে মিথ্যে বলেছিল।",
+      "words": [
+        {
+          "id": 3970,
+          "position": 1,
+          "text_uthmani": "كَذَّبَتْ",
+          "transliteration": "kadhabat",
+          "translation_bn": "মিথারোপ করেছিল",
+          "root": "—",
+          "lemma": "كَذَّبَتْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3971,
+          "position": 2,
+          "text_uthmani": "ثَمُودُ",
+          "transliteration": "thamūdu",
+          "translation_bn": "সামুদ",
+          "root": "—",
+          "lemma": "ثَمُودُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3972,
+          "position": 3,
+          "text_uthmani": "وَعَادٌۢ",
+          "transliteration": "waʿādun",
+          "translation_bn": "এবং আদ",
+          "root": "—",
+          "lemma": "وَعَادٌۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3973,
+          "position": 4,
+          "text_uthmani": "بِٱلْقَارِعَةِ",
+          "transliteration": "bil-qāriʿati",
+          "translation_bn": "মহাপ্রলয়কে",
+          "root": "—",
+          "lemma": "بِٱلْقَارِعَةِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 3974,
+          "position": 5,
+          "text_uthmani": "٤",
+          "transliteration": "",
+          "translation_bn": "(৪)",
+          "root": "—",
+          "lemma": "٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 5,
+      "transliteration": "fa-ammā thamūdu fa-uh'likū bil-ṭāghiyati",
+      "translation_bn": "অতঃপর সামূদ জাতিকে ধ্বংস করা হয়েছিল এক প্রলয়ংকর বিপর্যয় দিয়ে।",
+      "words": [
+        {
+          "id": 5275,
+          "position": 1,
+          "text_uthmani": "فَأَمَّا",
+          "transliteration": "fa-ammā",
+          "translation_bn": "আর",
+          "root": "—",
+          "lemma": "فَأَمَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5276,
+          "position": 2,
+          "text_uthmani": "ثَمُودُ",
+          "transliteration": "thamūdu",
+          "translation_bn": "সামুদ",
+          "root": "—",
+          "lemma": "ثَمُودُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5277,
+          "position": 3,
+          "text_uthmani": "فَأُهْلِكُوا۟",
+          "transliteration": "fa-uh'likū",
+          "translation_bn": "ধ্বংস করা হয়েছে অতঃপর",
+          "root": "—",
+          "lemma": "فَأُهْلِكُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5278,
+          "position": 4,
+          "text_uthmani": "بِٱلطَّاغِيَةِ",
+          "transliteration": "bil-ṭāghiyati",
+          "translation_bn": "তাঁর ঝনঝা বায়ু দিয়ে",
+          "root": "—",
+          "lemma": "بِٱلطَّاغِيَةِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5279,
+          "position": 5,
+          "text_uthmani": "٥",
+          "transliteration": "",
+          "translation_bn": "(৫)",
+          "root": "—",
+          "lemma": "٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 6,
+      "transliteration": "wa-ammā ʿādun fa-uh'likū birīḥin ṣarṣarin ʿātiyatin",
+      "translation_bn": "আর ‘আদকে ধ্বংস করা হয়েছিল এক প্রচন্ড ঝড়ো হাওয়া দিয়ে।",
+      "words": [
+        {
+          "id": 6487,
+          "position": 1,
+          "text_uthmani": "وَأَمَّا",
+          "transliteration": "wa-ammā",
+          "translation_bn": "আর",
+          "root": "—",
+          "lemma": "وَأَمَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6488,
+          "position": 2,
+          "text_uthmani": "عَادٌۭ",
+          "transliteration": "ʿādun",
+          "translation_bn": "আদ",
+          "root": "—",
+          "lemma": "عَادٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6489,
+          "position": 3,
+          "text_uthmani": "فَأُهْلِكُوا۟",
+          "transliteration": "fa-uh'likū",
+          "translation_bn": "অতঃপর ধ্বংস করা হয়েছে",
+          "root": "—",
+          "lemma": "فَأُهْلِكُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6490,
+          "position": 4,
+          "text_uthmani": "بِرِيحٍۢ",
+          "transliteration": "birīḥin",
+          "translation_bn": "বায়ু দিয়ে",
+          "root": "—",
+          "lemma": "بِرِيحٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6491,
+          "position": 5,
+          "text_uthmani": "صَرْصَرٍ",
+          "transliteration": "ṣarṣarin",
+          "translation_bn": "ঝঞ্জা",
+          "root": "—",
+          "lemma": "صَرْصَرٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6492,
+          "position": 6,
+          "text_uthmani": "عَاتِيَةٍۢ",
+          "transliteration": "ʿātiyatin",
+          "translation_bn": "প্রচন্ড",
+          "root": "—",
+          "lemma": "عَاتِيَةٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6493,
+          "position": 7,
+          "text_uthmani": "٦",
+          "transliteration": "",
+          "translation_bn": "(৬)",
+          "root": "—",
+          "lemma": "٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 7,
+      "transliteration": "sakharahā ʿalayhim sabʿa layālin wathamāniyata ayyāmin ḥusūman fatarā l-qawma fīhā ṣarʿā ka-annahum aʿjāzu nakhlin khāwiyatin",
+      "translation_bn": "যা তাদের উপর প্রবাহিত হয়েছিল সাত রাত আট দিন বিরামহীনভাবে, তুমি দেখতে তারা পড়ে আছে ইতস্তত বিক্ষিপ্ত, যেন তারা পুরাতন শুকনো খেজুর গাছের কান্ড।",
+      "words": [
+        {
+          "id": 7888,
+          "position": 1,
+          "text_uthmani": "سَخَّرَهَا",
+          "transliteration": "sakharahā",
+          "translation_bn": "তা প্রবাহিত করেন",
+          "root": "—",
+          "lemma": "سَخَّرَهَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7889,
+          "position": 2,
+          "text_uthmani": "عَلَيْهِمْ",
+          "transliteration": "ʿalayhim",
+          "translation_bn": "তাদের উপর",
+          "root": "—",
+          "lemma": "عَلَيْهِمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7890,
+          "position": 3,
+          "text_uthmani": "سَبْعَ",
+          "transliteration": "sabʿa",
+          "translation_bn": "সাত",
+          "root": "—",
+          "lemma": "سَبْعَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7891,
+          "position": 4,
+          "text_uthmani": "لَيَالٍۢ",
+          "transliteration": "layālin",
+          "translation_bn": "রাত",
+          "root": "—",
+          "lemma": "لَيَالٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7892,
+          "position": 5,
+          "text_uthmani": "وَثَمَـٰنِيَةَ",
+          "transliteration": "wathamāniyata",
+          "translation_bn": "এবং আট",
+          "root": "—",
+          "lemma": "وَثَمَـٰنِيَةَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7893,
+          "position": 6,
+          "text_uthmani": "أَيَّامٍ",
+          "transliteration": "ayyāmin",
+          "translation_bn": "দিন",
+          "root": "—",
+          "lemma": "أَيَّامٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7894,
+          "position": 7,
+          "text_uthmani": "حُسُومًۭا",
+          "transliteration": "ḥusūman",
+          "translation_bn": "ক্রমাগত",
+          "root": "—",
+          "lemma": "حُسُومًۭا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7895,
+          "position": 8,
+          "text_uthmani": "فَتَرَى",
+          "transliteration": "fatarā",
+          "translation_bn": "তুমি দেখতে তখন (তথায় থাকিলে)",
+          "root": "—",
+          "lemma": "فَتَرَى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7896,
+          "position": 9,
+          "text_uthmani": "ٱلْقَوْمَ",
+          "transliteration": "l-qawma",
+          "translation_bn": "সে জাতিকে",
+          "root": "—",
+          "lemma": "ٱلْقَوْمَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7897,
+          "position": 10,
+          "text_uthmani": "فِيهَا",
+          "transliteration": "fīhā",
+          "translation_bn": "তার মধ্যে",
+          "root": "—",
+          "lemma": "فِيهَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7898,
+          "position": 11,
+          "text_uthmani": "صَرْعَىٰ",
+          "transliteration": "ṣarʿā",
+          "translation_bn": "পড়ে থাকা",
+          "root": "—",
+          "lemma": "صَرْعَىٰ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7899,
+          "position": 12,
+          "text_uthmani": "كَأَنَّهُمْ",
+          "transliteration": "ka-annahum",
+          "translation_bn": "তারা যেন",
+          "root": "—",
+          "lemma": "كَأَنَّهُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7900,
+          "position": 13,
+          "text_uthmani": "أَعْجَازُ",
+          "transliteration": "aʿjāzu",
+          "translation_bn": "কাণ্ড সমূহ",
+          "root": "—",
+          "lemma": "أَعْجَازُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7901,
+          "position": 14,
+          "text_uthmani": "نَخْلٍ",
+          "transliteration": "nakhlin",
+          "translation_bn": "খেজুর গাছের",
+          "root": "—",
+          "lemma": "نَخْلٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7902,
+          "position": 15,
+          "text_uthmani": "خَاوِيَةٍۢ",
+          "transliteration": "khāwiyatin",
+          "translation_bn": "পরিত্যাক্ত",
+          "root": "—",
+          "lemma": "خَاوِيَةٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 7903,
+          "position": 16,
+          "text_uthmani": "٧",
+          "transliteration": "",
+          "translation_bn": "(৭)",
+          "root": "—",
+          "lemma": "٧",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 8,
+      "transliteration": "fahal tarā lahum min bāqiyatin",
+      "translation_bn": "তুমি তাদের কাউকে রক্ষা পেয়ে বেঁচে থাকতে দেখছ কি?",
+      "words": [
+        {
+          "id": 9071,
+          "position": 1,
+          "text_uthmani": "فَهَلْ",
+          "transliteration": "fahal",
+          "translation_bn": "কি এক্ষণে",
+          "root": "—",
+          "lemma": "فَهَلْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9072,
+          "position": 2,
+          "text_uthmani": "تَرَىٰ",
+          "transliteration": "tarā",
+          "translation_bn": "তুমি দেখ",
+          "root": "—",
+          "lemma": "تَرَىٰ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9073,
+          "position": 3,
+          "text_uthmani": "لَهُم",
+          "transliteration": "lahum",
+          "translation_bn": "তদেরকে",
+          "root": "—",
+          "lemma": "لَهُم",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9074,
+          "position": 4,
+          "text_uthmani": "مِّنۢ",
+          "transliteration": "min",
+          "translation_bn": "কিছু",
+          "root": "—",
+          "lemma": "مِّنۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9075,
+          "position": 5,
+          "text_uthmani": "بَاقِيَةٍۢ",
+          "transliteration": "bāqiyatin",
+          "translation_bn": "অবশিষ্ট",
+          "root": "—",
+          "lemma": "بَاقِيَةٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 9076,
+          "position": 6,
+          "text_uthmani": "٨",
+          "transliteration": "",
+          "translation_bn": "(৮)",
+          "root": "—",
+          "lemma": "٨",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 9,
+      "transliteration": "wajāa fir'ʿawnu waman qablahu wal-mu'tafikātu bil-khāṭi-ati",
+      "translation_bn": "ফেরাউন আর তার পূর্ববর্তীরা আর উল্টে দেয়া জনপদবাসীরা গুরুতর পাপে লিপ্ত ছিল।",
+      "words": [
+        {
+          "id": 10288,
+          "position": 1,
+          "text_uthmani": "وَجَآءَ",
+          "transliteration": "wajāa",
+          "translation_bn": "এবং এসেছিল",
+          "root": "—",
+          "lemma": "وَجَآءَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 10289,
+          "position": 2,
+          "text_uthmani": "فِرْعَوْنُ",
+          "transliteration": "fir'ʿawnu",
+          "translation_bn": "ফিরাউন",
+          "root": "—",
+          "lemma": "فِرْعَوْنُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 10290,
+          "position": 3,
+          "text_uthmani": "وَمَن",
+          "transliteration": "waman",
+          "translation_bn": "ও যারা",
+          "root": "—",
+          "lemma": "وَمَن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 10291,
+          "position": 4,
+          "text_uthmani": "قَبْلَهُۥ",
+          "transliteration": "qablahu",
+          "translation_bn": "তার পূর্বে",
+          "root": "—",
+          "lemma": "قَبْلَهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 10292,
+          "position": 5,
+          "text_uthmani": "وَٱلْمُؤْتَفِكَـٰتُ",
+          "transliteration": "wal-mu'tafikātu",
+          "translation_bn": "এবং উলটে দেয়া বস্তীবাসীদের",
+          "root": "—",
+          "lemma": "وَٱلْمُؤْتَفِكَـٰتُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 10293,
+          "position": 6,
+          "text_uthmani": "بِٱلْخَاطِئَةِ",
+          "transliteration": "bil-khāṭi-ati",
+          "translation_bn": "অপরাধের কারণে",
+          "root": "—",
+          "lemma": "بِٱلْخَاطِئَةِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 10294,
+          "position": 7,
+          "text_uthmani": "٩",
+          "transliteration": "",
+          "translation_bn": "(৯)",
+          "root": "—",
+          "lemma": "٩",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 10,
+      "transliteration": "faʿaṣaw rasūla rabbihim fa-akhadhahum akhdhatan rābiyatan",
+      "translation_bn": "তারা তাদের প্রতিপালকের রসূলকে অমান্য করেছিল, তখন তিনি তাদেরকে পাকড়াও করলেন- অত্যন্ত কঠিন পাকড়াও।",
+      "words": [
+        {
+          "id": 11519,
+          "position": 1,
+          "text_uthmani": "فَعَصَوْا۟",
+          "transliteration": "faʿaṣaw",
+          "translation_bn": "অতঃপর তারা অমান্য করেছিল",
+          "root": "—",
+          "lemma": "فَعَصَوْا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 11520,
+          "position": 2,
+          "text_uthmani": "رَسُولَ",
+          "transliteration": "rasūla",
+          "translation_bn": "রাসূলকে",
+          "root": "—",
+          "lemma": "رَسُولَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 11521,
+          "position": 3,
+          "text_uthmani": "رَبِّهِمْ",
+          "transliteration": "rabbihim",
+          "translation_bn": "তাদের রবের",
+          "root": "—",
+          "lemma": "رَبِّهِمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 11522,
+          "position": 4,
+          "text_uthmani": "فَأَخَذَهُمْ",
+          "transliteration": "fa-akhadhahum",
+          "translation_bn": "ফলে তাদের ধরলেন",
+          "root": "—",
+          "lemma": "فَأَخَذَهُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 11523,
+          "position": 5,
+          "text_uthmani": "أَخْذَةًۭ",
+          "transliteration": "akhdhatan",
+          "translation_bn": "ধরা",
+          "root": "—",
+          "lemma": "أَخْذَةًۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 11524,
+          "position": 6,
+          "text_uthmani": "رَّابِيَةً",
+          "transliteration": "rābiyatan",
+          "translation_bn": "শক্ত",
+          "root": "—",
+          "lemma": "رَّابِيَةً",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 11525,
+          "position": 7,
+          "text_uthmani": "١٠",
+          "transliteration": "",
+          "translation_bn": "(১০)",
+          "root": "—",
+          "lemma": "١٠",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 11,
+      "transliteration": "innā lammā ṭaghā l-māu ḥamalnākum fī l-jāriyati",
+      "translation_bn": "(নূহের বানের) পানি যখন কূল ছাপিয়ে সীমা ছাড়িয়ে গেল, তখন আমি তোমাদেরকে চলন্ত নৌযানে আরোহণ করালাম।",
+      "words": [
+        {
+          "id": 12835,
+          "position": 1,
+          "text_uthmani": "إِنَّا",
+          "transliteration": "innā",
+          "translation_bn": "আমরা নিশ্চয়ই",
+          "root": "—",
+          "lemma": "إِنَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 12836,
+          "position": 2,
+          "text_uthmani": "لَمَّا",
+          "transliteration": "lammā",
+          "translation_bn": "যখন",
+          "root": "—",
+          "lemma": "لَمَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 12837,
+          "position": 3,
+          "text_uthmani": "طَغَا",
+          "transliteration": "ṭaghā",
+          "translation_bn": "জলোচ্ছ্বাস হয়েছিল",
+          "root": "—",
+          "lemma": "طَغَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 12838,
+          "position": 4,
+          "text_uthmani": "ٱلْمَآءُ",
+          "transliteration": "l-māu",
+          "translation_bn": "(পানি)",
+          "root": "—",
+          "lemma": "ٱلْمَآءُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 12839,
+          "position": 5,
+          "text_uthmani": "حَمَلْنَـٰكُمْ",
+          "transliteration": "ḥamalnākum",
+          "translation_bn": "তোমাদের আমরা আরোহী করেছিলাম",
+          "root": "—",
+          "lemma": "حَمَلْنَـٰكُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 12840,
+          "position": 6,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 12841,
+          "position": 7,
+          "text_uthmani": "ٱلْجَارِيَةِ",
+          "transliteration": "l-jāriyati",
+          "translation_bn": "নৌযানের",
+          "root": "—",
+          "lemma": "ٱلْجَارِيَةِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 12842,
+          "position": 8,
+          "text_uthmani": "١١",
+          "transliteration": "",
+          "translation_bn": "(১১)",
+          "root": "—",
+          "lemma": "١١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 12,
+      "transliteration": "linajʿalahā lakum tadhkiratan wataʿiyahā udhunun wāʿiyatun",
+      "translation_bn": "যেন এ ঘটনাটিকে আমি তোমাদের জন্য শিক্ষাপ্রদ-স্মারক করে রাখি আর সংরক্ষণকারী কান তা সংরক্ষণ করে।",
+      "words": [
+        {
+          "id": 14094,
+          "position": 1,
+          "text_uthmani": "لِنَجْعَلَهَا",
+          "transliteration": "linajʿalahā",
+          "translation_bn": "তা বানাই আমরা যেন",
+          "root": "—",
+          "lemma": "لِنَجْعَلَهَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 14095,
+          "position": 2,
+          "text_uthmani": "لَكُمْ",
+          "transliteration": "lakum",
+          "translation_bn": "তোমাদের জন্যে",
+          "root": "—",
+          "lemma": "لَكُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 14096,
+          "position": 3,
+          "text_uthmani": "تَذْكِرَةًۭ",
+          "transliteration": "tadhkiratan",
+          "translation_bn": "শিক্ষা",
+          "root": "—",
+          "lemma": "تَذْكِرَةًۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 14097,
+          "position": 4,
+          "text_uthmani": "وَتَعِيَهَآ",
+          "transliteration": "wataʿiyahā",
+          "translation_bn": "এবং তার ষ্মৃতি বহন করে",
+          "root": "—",
+          "lemma": "وَتَعِيَهَآ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 14098,
+          "position": 5,
+          "text_uthmani": "أُذُنٌۭ",
+          "transliteration": "udhunun",
+          "translation_bn": "কান",
+          "root": "—",
+          "lemma": "أُذُنٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 14099,
+          "position": 6,
+          "text_uthmani": "وَٰعِيَةٌۭ",
+          "transliteration": "wāʿiyatun",
+          "translation_bn": "স্মরন বাহক",
+          "root": "—",
+          "lemma": "وَٰعِيَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 14100,
+          "position": 7,
+          "text_uthmani": "١٢",
+          "transliteration": "",
+          "translation_bn": "(১২)",
+          "root": "—",
+          "lemma": "١٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 13,
+      "transliteration": "fa-idhā nufikha fī l-ṣūri nafkhatun wāḥidatun",
+      "translation_bn": "অতঃপর যখন সিঙ্গায় ফুঁৎকার দেয়া হবে- মাত্র একটি ফুঁৎকার।",
+      "words": [
+        {
+          "id": 15213,
+          "position": 1,
+          "text_uthmani": "فَإِذَا",
+          "transliteration": "fa-idhā",
+          "translation_bn": "যখন অতঃপর",
+          "root": "—",
+          "lemma": "فَإِذَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 15214,
+          "position": 2,
+          "text_uthmani": "نُفِخَ",
+          "transliteration": "nufikha",
+          "translation_bn": "ফুক দেয়া হবে",
+          "root": "—",
+          "lemma": "نُفِخَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 15215,
+          "position": 3,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 15216,
+          "position": 4,
+          "text_uthmani": "ٱلصُّورِ",
+          "transliteration": "l-ṣūri",
+          "translation_bn": "শিঙ্গায়",
+          "root": "—",
+          "lemma": "ٱلصُّورِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 15217,
+          "position": 5,
+          "text_uthmani": "نَفْخَةٌۭ",
+          "transliteration": "nafkhatun",
+          "translation_bn": "ফুক",
+          "root": "—",
+          "lemma": "نَفْخَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 15218,
+          "position": 6,
+          "text_uthmani": "وَٰحِدَةٌۭ",
+          "transliteration": "wāḥidatun",
+          "translation_bn": "একবার",
+          "root": "—",
+          "lemma": "وَٰحِدَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 15219,
+          "position": 7,
+          "text_uthmani": "١٣",
+          "transliteration": "",
+          "translation_bn": "(১৩)",
+          "root": "—",
+          "lemma": "١٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 14,
+      "transliteration": "waḥumilati l-arḍu wal-jibālu fadukkatā dakkatan wāḥidatan",
+      "translation_bn": "পৃথিবী আর পর্বতমালা উৎক্ষিপ্ত হবে আর একই আঘাতে তাদেরকে চূর্ণ বিচূর্ণ করা হবে।",
+      "words": [
+        {
+          "id": 16249,
+          "position": 1,
+          "text_uthmani": "وَحُمِلَتِ",
+          "transliteration": "waḥumilati",
+          "translation_bn": "এবং উঠানো হবে",
+          "root": "—",
+          "lemma": "وَحُمِلَتِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 16250,
+          "position": 2,
+          "text_uthmani": "ٱلْأَرْضُ",
+          "transliteration": "l-arḍu",
+          "translation_bn": "যমীন",
+          "root": "—",
+          "lemma": "ٱلْأَرْضُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 16251,
+          "position": 3,
+          "text_uthmani": "وَٱلْجِبَالُ",
+          "transliteration": "wal-jibālu",
+          "translation_bn": "এবং পাহাড়গুলো",
+          "root": "—",
+          "lemma": "وَٱلْجِبَالُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 16252,
+          "position": 4,
+          "text_uthmani": "فَدُكَّتَا",
+          "transliteration": "fadukkatā",
+          "translation_bn": "বিচূর্ণ করা হবে অতঃপর",
+          "root": "—",
+          "lemma": "فَدُكَّتَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 16253,
+          "position": 5,
+          "text_uthmani": "دَكَّةًۭ",
+          "transliteration": "dakkatan",
+          "translation_bn": "চূর্ণ বিচূর্ণ",
+          "root": "—",
+          "lemma": "دَكَّةًۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 16254,
+          "position": 6,
+          "text_uthmani": "وَٰحِدَةًۭ",
+          "transliteration": "wāḥidatan",
+          "translation_bn": "একবার",
+          "root": "—",
+          "lemma": "وَٰحِدَةًۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 16255,
+          "position": 7,
+          "text_uthmani": "١٤",
+          "transliteration": "",
+          "translation_bn": "(১৪)",
+          "root": "—",
+          "lemma": "١٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 15,
+      "transliteration": "fayawma-idhin waqaʿati l-wāqiʿatu",
+      "translation_bn": "সেদিন ঘটবে সেই সংঘটিতব্য (মহা) ঘটনা।",
+      "words": [
+        {
+          "id": 17436,
+          "position": 1,
+          "text_uthmani": "فَيَوْمَئِذٍۢ",
+          "transliteration": "fayawma-idhin",
+          "translation_bn": "সেদিন অতঃপর",
+          "root": "—",
+          "lemma": "فَيَوْمَئِذٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 17437,
+          "position": 2,
+          "text_uthmani": "وَقَعَتِ",
+          "transliteration": "waqaʿati",
+          "translation_bn": "সংঘটিত হবে",
+          "root": "—",
+          "lemma": "وَقَعَتِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 17438,
+          "position": 3,
+          "text_uthmani": "ٱلْوَاقِعَةُ",
+          "transliteration": "l-wāqiʿatu",
+          "translation_bn": "মহাপ্রলয়",
+          "root": "—",
+          "lemma": "ٱلْوَاقِعَةُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 17439,
+          "position": 4,
+          "text_uthmani": "١٥",
+          "transliteration": "",
+          "translation_bn": "(১৫)",
+          "root": "—",
+          "lemma": "١٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 16,
+      "transliteration": "wa-inshaqqati l-samāu fahiya yawma-idhin wāhiyatun",
+      "translation_bn": "আকাশ হয়ে যাবে দীর্ণ বিদীর্ণ আর সেদিন তা হবে বাঁধন-হারা-বিক্ষিপ্ত।",
+      "words": [
+        {
+          "id": 18425,
+          "position": 1,
+          "text_uthmani": "وَٱنشَقَّتِ",
+          "transliteration": "wa-inshaqqati",
+          "translation_bn": "এবং বিদীর্ণ হবে",
+          "root": "—",
+          "lemma": "وَٱنشَقَّتِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 18426,
+          "position": 2,
+          "text_uthmani": "ٱلسَّمَآءُ",
+          "transliteration": "l-samāu",
+          "translation_bn": "আসমান",
+          "root": "—",
+          "lemma": "ٱلسَّمَآءُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 18427,
+          "position": 3,
+          "text_uthmani": "فَهِىَ",
+          "transliteration": "fahiya",
+          "translation_bn": "তা অতঃপর",
+          "root": "—",
+          "lemma": "فَهِىَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 18428,
+          "position": 4,
+          "text_uthmani": "يَوْمَئِذٍۢ",
+          "transliteration": "yawma-idhin",
+          "translation_bn": "সেদিন",
+          "root": "—",
+          "lemma": "يَوْمَئِذٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 18429,
+          "position": 5,
+          "text_uthmani": "وَاهِيَةٌۭ",
+          "transliteration": "wāhiyatun",
+          "translation_bn": "বিশ্লিষ্ট হবে",
+          "root": "—",
+          "lemma": "وَاهِيَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 18430,
+          "position": 6,
+          "text_uthmani": "١٦",
+          "transliteration": "",
+          "translation_bn": "(১৬)",
+          "root": "—",
+          "lemma": "١٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 17,
+      "transliteration": "wal-malaku ʿalā arjāihā wayaḥmilu ʿarsha rabbika fawqahum yawma-idhin thamāniyatun",
+      "translation_bn": "ফেরেশতারা থাকবে আকাশের আশে পাশে। আটজন ফেরেশতা সেদিন তোমার প্রতিপালকের ‘আরশ নিজেদের ঊর্ধ্বে বহন করবে।",
+      "words": [
+        {
+          "id": 19493,
+          "position": 1,
+          "text_uthmani": "وَٱلْمَلَكُ",
+          "transliteration": "wal-malaku",
+          "translation_bn": "এবং ফেরেশতাগণ",
+          "root": "—",
+          "lemma": "وَٱلْمَلَكُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19494,
+          "position": 2,
+          "text_uthmani": "عَلَىٰٓ",
+          "transliteration": "ʿalā",
+          "translation_bn": "উপর",
+          "root": "—",
+          "lemma": "عَلَىٰٓ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19495,
+          "position": 3,
+          "text_uthmani": "أَرْجَآئِهَا ۚ",
+          "transliteration": "arjāihā",
+          "translation_bn": "(আসমানের) বিভিন্ন প্রান্তে থাকবে",
+          "root": "—",
+          "lemma": "أَرْجَآئِهَا ۚ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19497,
+          "position": 4,
+          "text_uthmani": "وَيَحْمِلُ",
+          "transliteration": "wayaḥmilu",
+          "translation_bn": "এবং বহন করবে",
+          "root": "—",
+          "lemma": "وَيَحْمِلُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19498,
+          "position": 5,
+          "text_uthmani": "عَرْشَ",
+          "transliteration": "ʿarsha",
+          "translation_bn": "আরশ",
+          "root": "—",
+          "lemma": "عَرْشَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19499,
+          "position": 6,
+          "text_uthmani": "رَبِّكَ",
+          "transliteration": "rabbika",
+          "translation_bn": "তোমার রবের",
+          "root": "—",
+          "lemma": "رَبِّكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19500,
+          "position": 7,
+          "text_uthmani": "فَوْقَهُمْ",
+          "transliteration": "fawqahum",
+          "translation_bn": "তাদের উপরে,",
+          "root": "—",
+          "lemma": "فَوْقَهُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19501,
+          "position": 8,
+          "text_uthmani": "يَوْمَئِذٍۢ",
+          "transliteration": "yawma-idhin",
+          "translation_bn": "সেদিন",
+          "root": "—",
+          "lemma": "يَوْمَئِذٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19502,
+          "position": 9,
+          "text_uthmani": "ثَمَـٰنِيَةٌۭ",
+          "transliteration": "thamāniyatun",
+          "translation_bn": "আট (ফেরেশতা)",
+          "root": "—",
+          "lemma": "ثَمَـٰنِيَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 19503,
+          "position": 10,
+          "text_uthmani": "١٧",
+          "transliteration": "",
+          "translation_bn": "(১৭)",
+          "root": "—",
+          "lemma": "١٧",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 18,
+      "transliteration": "yawma-idhin tuʿ'raḍūna lā takhfā minkum khāfiyatun",
+      "translation_bn": "সেদিন তোমাদেরকে (বিচারের জন্য) হাজির করা হবে আর তোমাদের কোন কাজই- যা তোমরা গোপন কর- গোপন থাকবে না।",
+      "words": [
+        {
+          "id": 20593,
+          "position": 1,
+          "text_uthmani": "يَوْمَئِذٍۢ",
+          "transliteration": "yawma-idhin",
+          "translation_bn": "সেদিন",
+          "root": "—",
+          "lemma": "يَوْمَئِذٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 20594,
+          "position": 2,
+          "text_uthmani": "تُعْرَضُونَ",
+          "transliteration": "tuʿ'raḍūna",
+          "translation_bn": "পেশ করা হবে তোমাদের",
+          "root": "—",
+          "lemma": "تُعْرَضُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 20595,
+          "position": 3,
+          "text_uthmani": "لَا",
+          "transliteration": "lā",
+          "translation_bn": "না",
+          "root": "—",
+          "lemma": "لَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 20596,
+          "position": 4,
+          "text_uthmani": "تَخْفَىٰ",
+          "transliteration": "takhfā",
+          "translation_bn": "আড়াল করা হবে",
+          "root": "—",
+          "lemma": "تَخْفَىٰ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 20597,
+          "position": 5,
+          "text_uthmani": "مِنكُمْ",
+          "transliteration": "minkum",
+          "translation_bn": "তোমাদের মধ্যে",
+          "root": "—",
+          "lemma": "مِنكُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 20598,
+          "position": 6,
+          "text_uthmani": "خَافِيَةٌۭ",
+          "transliteration": "khāfiyatun",
+          "translation_bn": "কোন গোপন কিছুই",
+          "root": "—",
+          "lemma": "خَافِيَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 20599,
+          "position": 7,
+          "text_uthmani": "١٨",
+          "transliteration": "",
+          "translation_bn": "(১৮)",
+          "root": "—",
+          "lemma": "١٨",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 19,
+      "transliteration": "fa-ammā man ūtiya kitābahu biyamīnihi fayaqūlu hāumu iq'raū kitābiyah",
+      "translation_bn": "তখন যাকে তার ‘আমালনামা তার ডান হাতে দেয়া হবে সে বলবে, ‘এই যে আমার ‘আমালানামা পড়ে দেখ,",
+      "words": [
+        {
+          "id": 21655,
+          "position": 1,
+          "text_uthmani": "فَأَمَّا",
+          "transliteration": "fa-ammā",
+          "translation_bn": "আর",
+          "root": "—",
+          "lemma": "فَأَمَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21656,
+          "position": 2,
+          "text_uthmani": "مَنْ",
+          "transliteration": "man",
+          "translation_bn": "যাকে",
+          "root": "—",
+          "lemma": "مَنْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21657,
+          "position": 3,
+          "text_uthmani": "أُوتِىَ",
+          "transliteration": "ūtiya",
+          "translation_bn": "দেয়া হবে",
+          "root": "—",
+          "lemma": "أُوتِىَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21658,
+          "position": 4,
+          "text_uthmani": "كِتَـٰبَهُۥ",
+          "transliteration": "kitābahu",
+          "translation_bn": "তার আমলনামা",
+          "root": "—",
+          "lemma": "كِتَـٰبَهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21659,
+          "position": 5,
+          "text_uthmani": "بِيَمِينِهِۦ",
+          "transliteration": "biyamīnihi",
+          "translation_bn": "তাঁর ডান হাতে",
+          "root": "—",
+          "lemma": "بِيَمِينِهِۦ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21660,
+          "position": 6,
+          "text_uthmani": "فَيَقُولُ",
+          "transliteration": "fayaqūlu",
+          "translation_bn": "সে বলবে অতংপর",
+          "root": "—",
+          "lemma": "فَيَقُولُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21661,
+          "position": 7,
+          "text_uthmani": "هَآؤُمُ",
+          "transliteration": "hāumu",
+          "translation_bn": "\"এখানে,",
+          "root": "—",
+          "lemma": "هَآؤُمُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21662,
+          "position": 8,
+          "text_uthmani": "ٱقْرَءُوا۟",
+          "transliteration": "iq'raū",
+          "translation_bn": "তোমরা পড়",
+          "root": "—",
+          "lemma": "ٱقْرَءُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21663,
+          "position": 9,
+          "text_uthmani": "كِتَـٰبِيَهْ",
+          "transliteration": "kitābiyah",
+          "translation_bn": "আমার আমলনামা",
+          "root": "—",
+          "lemma": "كِتَـٰبِيَهْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 21664,
+          "position": 10,
+          "text_uthmani": "١٩",
+          "transliteration": "",
+          "translation_bn": "(১৯)",
+          "root": "—",
+          "lemma": "١٩",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 20,
+      "transliteration": "innī ẓanantu annī mulāqin ḥisābiyah",
+      "translation_bn": "আমি জানতাম যে, আমাকে আমার হিসাবের সম্মুখীন হতে হবে।’",
+      "words": [
+        {
+          "id": 22740,
+          "position": 1,
+          "text_uthmani": "إِنِّى",
+          "transliteration": "innī",
+          "translation_bn": "নিশ্চয়ই, আমি",
+          "root": "—",
+          "lemma": "إِنِّى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 22741,
+          "position": 2,
+          "text_uthmani": "ظَنَنتُ",
+          "transliteration": "ẓanantu",
+          "translation_bn": "মনে করেছিলাম",
+          "root": "—",
+          "lemma": "ظَنَنتُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 22742,
+          "position": 3,
+          "text_uthmani": "أَنِّى",
+          "transliteration": "annī",
+          "translation_bn": "আমি যে",
+          "root": "—",
+          "lemma": "أَنِّى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 22743,
+          "position": 4,
+          "text_uthmani": "مُلَـٰقٍ",
+          "transliteration": "mulāqin",
+          "translation_bn": "সাক্ষাৎকারী",
+          "root": "—",
+          "lemma": "مُلَـٰقٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 22744,
+          "position": 5,
+          "text_uthmani": "حِسَابِيَهْ",
+          "transliteration": "ḥisābiyah",
+          "translation_bn": "আমার হিসাবের\"",
+          "root": "—",
+          "lemma": "حِسَابِيَهْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 22745,
+          "position": 6,
+          "text_uthmani": "٢٠",
+          "transliteration": "",
+          "translation_bn": "(২০)",
+          "root": "—",
+          "lemma": "٢٠",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 21,
+      "transliteration": "fahuwa fī ʿīshatin rāḍiyatin",
+      "translation_bn": "অতঃপর সে আনন্দময় জীবন যাপন করবে,",
+      "words": [
+        {
+          "id": 23891,
+          "position": 1,
+          "text_uthmani": "فَهُوَ",
+          "transliteration": "fahuwa",
+          "translation_bn": "সে অতংপর",
+          "root": "—",
+          "lemma": "فَهُوَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 23892,
+          "position": 2,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে হবে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 23893,
+          "position": 3,
+          "text_uthmani": "عِيشَةٍۢ",
+          "transliteration": "ʿīshatin",
+          "translation_bn": "জীবনের",
+          "root": "—",
+          "lemma": "عِيشَةٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 23894,
+          "position": 4,
+          "text_uthmani": "رَّاضِيَةٍۢ",
+          "transliteration": "rāḍiyatin",
+          "translation_bn": "সন্তোষজনক",
+          "root": "—",
+          "lemma": "رَّاضِيَةٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 23895,
+          "position": 5,
+          "text_uthmani": "٢١",
+          "transliteration": "",
+          "translation_bn": "(২১)",
+          "root": "—",
+          "lemma": "٢١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 22,
+      "transliteration": "fī jannatin ʿāliyatin",
+      "translation_bn": "উচ্চতম মর্যাদার জান্নাতে,",
+      "words": [
+        {
+          "id": 24905,
+          "position": 1,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 24906,
+          "position": 2,
+          "text_uthmani": "جَنَّةٍ",
+          "transliteration": "jannatin",
+          "translation_bn": "জান্নাতের",
+          "root": "—",
+          "lemma": "جَنَّةٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 24907,
+          "position": 3,
+          "text_uthmani": "عَالِيَةٍۢ",
+          "transliteration": "ʿāliyatin",
+          "translation_bn": "সুউচ্চ",
+          "root": "—",
+          "lemma": "عَالِيَةٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 24908,
+          "position": 4,
+          "text_uthmani": "٢٢",
+          "transliteration": "",
+          "translation_bn": "(২২)",
+          "root": "—",
+          "lemma": "٢٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 23,
+      "transliteration": "quṭūfuhā dāniyatun",
+      "translation_bn": "তার ফলসমূহ (ঝুলে থাকবে) নীচে-নাগালের মধ্যে।",
+      "words": [
+        {
+          "id": 25970,
+          "position": 1,
+          "text_uthmani": "قُطُوفُهَا",
+          "transliteration": "quṭūfuhā",
+          "translation_bn": "তার ফলরাশি (থাকবে)",
+          "root": "—",
+          "lemma": "قُطُوفُهَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 25971,
+          "position": 2,
+          "text_uthmani": "دَانِيَةٌۭ",
+          "transliteration": "dāniyatun",
+          "translation_bn": "নিকটে",
+          "root": "—",
+          "lemma": "دَانِيَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 25972,
+          "position": 3,
+          "text_uthmani": "٢٣",
+          "transliteration": "",
+          "translation_bn": "(২৩)",
+          "root": "—",
+          "lemma": "٢٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 24,
+      "transliteration": "kulū wa-ish'rabū hanīan bimā aslaftum fī l-ayāmi l-khāliyati",
+      "translation_bn": "(তাদেরকে বলা হবে) পরিপূর্ণ তৃপ্তির সঙ্গে খাও এবং পান কর বিগত দিনে তোমরা যা (নেক ‘আমাল) করেছিলে তার প্রতিদান স্বরূপ।",
+      "words": [
+        {
+          "id": 26972,
+          "position": 1,
+          "text_uthmani": "كُلُوا۟",
+          "transliteration": "kulū",
+          "translation_bn": "\"তোমরা খাও",
+          "root": "—",
+          "lemma": "كُلُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26973,
+          "position": 2,
+          "text_uthmani": "وَٱشْرَبُوا۟",
+          "transliteration": "wa-ish'rabū",
+          "translation_bn": "ও পান কর",
+          "root": "—",
+          "lemma": "وَٱشْرَبُوا۟",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26974,
+          "position": 3,
+          "text_uthmani": "هَنِيٓـًٔۢا",
+          "transliteration": "hanīan",
+          "translation_bn": "মজা করে",
+          "root": "—",
+          "lemma": "هَنِيٓـًٔۢا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26975,
+          "position": 4,
+          "text_uthmani": "بِمَآ",
+          "transliteration": "bimā",
+          "translation_bn": "যা বদলে",
+          "root": "—",
+          "lemma": "بِمَآ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26976,
+          "position": 5,
+          "text_uthmani": "أَسْلَفْتُمْ",
+          "transliteration": "aslaftum",
+          "translation_bn": "তোমরা অতিবাহিত করেছ",
+          "root": "—",
+          "lemma": "أَسْلَفْتُمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26977,
+          "position": 6,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26978,
+          "position": 7,
+          "text_uthmani": "ٱلْأَيَّامِ",
+          "transliteration": "l-ayāmi",
+          "translation_bn": "দিনগুলোর",
+          "root": "—",
+          "lemma": "ٱلْأَيَّامِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26979,
+          "position": 8,
+          "text_uthmani": "ٱلْخَالِيَةِ",
+          "transliteration": "l-khāliyati",
+          "translation_bn": "বিগত\"",
+          "root": "—",
+          "lemma": "ٱلْخَالِيَةِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 26980,
+          "position": 9,
+          "text_uthmani": "٢٤",
+          "transliteration": "",
+          "translation_bn": "(২৪)",
+          "root": "—",
+          "lemma": "٢٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 25,
+      "transliteration": "wa-ammā man ūtiya kitābahu bishimālihi fayaqūlu yālaytanī lam ūta kitābiyah",
+      "translation_bn": "কিন্তু যার ‘আমালনামা বাম হাতে দেয়া হবে সে বলবে, ‘হায়! আমাকে যদি আমার ‘আমালনামা না দেয়া হত,",
+      "words": [
+        {
+          "id": 28032,
+          "position": 1,
+          "text_uthmani": "وَأَمَّا",
+          "transliteration": "wa-ammā",
+          "translation_bn": "আর",
+          "root": "—",
+          "lemma": "وَأَمَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28033,
+          "position": 2,
+          "text_uthmani": "مَنْ",
+          "transliteration": "man",
+          "translation_bn": "যাকে",
+          "root": "—",
+          "lemma": "مَنْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28034,
+          "position": 3,
+          "text_uthmani": "أُوتِىَ",
+          "transliteration": "ūtiya",
+          "translation_bn": "দেয়া হবে",
+          "root": "—",
+          "lemma": "أُوتِىَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28035,
+          "position": 4,
+          "text_uthmani": "كِتَـٰبَهُۥ",
+          "transliteration": "kitābahu",
+          "translation_bn": "তার আমলনামা",
+          "root": "—",
+          "lemma": "كِتَـٰبَهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28036,
+          "position": 5,
+          "text_uthmani": "بِشِمَالِهِۦ",
+          "transliteration": "bishimālihi",
+          "translation_bn": "তার বাম হাতে",
+          "root": "—",
+          "lemma": "بِشِمَالِهِۦ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28037,
+          "position": 6,
+          "text_uthmani": "فَيَقُولُ",
+          "transliteration": "fayaqūlu",
+          "translation_bn": "সে বলবে অতংপর",
+          "root": "—",
+          "lemma": "فَيَقُولُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28038,
+          "position": 7,
+          "text_uthmani": "يَـٰلَيْتَنِى",
+          "transliteration": "yālaytanī",
+          "translation_bn": "\"আমার আফসোস",
+          "root": "—",
+          "lemma": "يَـٰلَيْتَنِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28039,
+          "position": 8,
+          "text_uthmani": "لَمْ",
+          "transliteration": "lam",
+          "translation_bn": "না (যদি)",
+          "root": "—",
+          "lemma": "لَمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28040,
+          "position": 9,
+          "text_uthmani": "أُوتَ",
+          "transliteration": "ūta",
+          "translation_bn": "দেয়া হত",
+          "root": "—",
+          "lemma": "أُوتَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28041,
+          "position": 10,
+          "text_uthmani": "كِتَـٰبِيَهْ",
+          "transliteration": "kitābiyah",
+          "translation_bn": "আমার আমলনামা",
+          "root": "—",
+          "lemma": "كِتَـٰبِيَهْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28042,
+          "position": 11,
+          "text_uthmani": "٢٥",
+          "transliteration": "",
+          "translation_bn": "(২৫)",
+          "root": "—",
+          "lemma": "٢٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 26,
+      "transliteration": "walam adri mā ḥisābiyah",
+      "translation_bn": "আর আমার হিসাব কী তা যদি আমি না-ই জানতাম,",
+      "words": [
+        {
+          "id": 28990,
+          "position": 1,
+          "text_uthmani": "وَلَمْ",
+          "transliteration": "walam",
+          "translation_bn": "এবং না",
+          "root": "—",
+          "lemma": "وَلَمْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28991,
+          "position": 2,
+          "text_uthmani": "أَدْرِ",
+          "transliteration": "adri",
+          "translation_bn": "আমি জানতাম",
+          "root": "—",
+          "lemma": "أَدْرِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28992,
+          "position": 3,
+          "text_uthmani": "مَا",
+          "transliteration": "mā",
+          "translation_bn": "যা",
+          "root": "—",
+          "lemma": "مَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28993,
+          "position": 4,
+          "text_uthmani": "حِسَابِيَهْ",
+          "transliteration": "ḥisābiyah",
+          "translation_bn": "আমার হিসাব",
+          "root": "—",
+          "lemma": "حِسَابِيَهْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 28994,
+          "position": 5,
+          "text_uthmani": "٢٦",
+          "transliteration": "",
+          "translation_bn": "(২৬)",
+          "root": "—",
+          "lemma": "٢٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 27,
+      "transliteration": "yālaytahā kānati l-qāḍiyata",
+      "translation_bn": "‘হায়! (দুনিয়ার) মৃত্যুই যদি আমার শেষ (অবস্থা) হত!",
+      "words": [
+        {
+          "id": 29803,
+          "position": 1,
+          "text_uthmani": "يَـٰلَيْتَهَا",
+          "transliteration": "yālaytahā",
+          "translation_bn": "হায় তা",
+          "root": "—",
+          "lemma": "يَـٰلَيْتَهَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 29804,
+          "position": 2,
+          "text_uthmani": "كَانَتِ",
+          "transliteration": "kānati",
+          "translation_bn": "যদি হত",
+          "root": "—",
+          "lemma": "كَانَتِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 29805,
+          "position": 3,
+          "text_uthmani": "ٱلْقَاضِيَةَ",
+          "transliteration": "l-qāḍiyata",
+          "translation_bn": "(মৃত্যু) চূড়ান্ত",
+          "root": "—",
+          "lemma": "ٱلْقَاضِيَةَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 29806,
+          "position": 4,
+          "text_uthmani": "٢٧",
+          "transliteration": "",
+          "translation_bn": "(২৭)",
+          "root": "—",
+          "lemma": "٢٧",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 28,
+      "transliteration": "mā aghnā ʿannī māliyah",
+      "translation_bn": "আমার ধন-সম্পদ আমার কোন কাজে আসল না,",
+      "words": [
+        {
+          "id": 30852,
+          "position": 1,
+          "text_uthmani": "مَآ",
+          "transliteration": "mā",
+          "translation_bn": "না",
+          "root": "—",
+          "lemma": "مَآ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 30853,
+          "position": 2,
+          "text_uthmani": "أَغْنَىٰ",
+          "transliteration": "aghnā",
+          "translation_bn": "কাজে আসল",
+          "root": "—",
+          "lemma": "أَغْنَىٰ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 30854,
+          "position": 3,
+          "text_uthmani": "عَنِّى",
+          "transliteration": "ʿannī",
+          "translation_bn": "আমার জন্যে",
+          "root": "—",
+          "lemma": "عَنِّى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 30855,
+          "position": 4,
+          "text_uthmani": "مَالِيَهْ ۜ",
+          "transliteration": "māliyah",
+          "translation_bn": "আমার ধন-সম্পদ,",
+          "root": "—",
+          "lemma": "مَالِيَهْ ۜ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 30857,
+          "position": 5,
+          "text_uthmani": "٢٨",
+          "transliteration": "",
+          "translation_bn": "(২৮)",
+          "root": "—",
+          "lemma": "٢٨",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 29,
+      "transliteration": "halaka ʿannī sul'ṭāniyah",
+      "translation_bn": "আমার (সব) ক্ষমতা আধিপত্য নিঃশেষ হয়ে গেছে,",
+      "words": [
+        {
+          "id": 31929,
+          "position": 1,
+          "text_uthmani": "هَلَكَ",
+          "transliteration": "halaka",
+          "translation_bn": "বরবাদ হয়েছে",
+          "root": "—",
+          "lemma": "هَلَكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 31930,
+          "position": 2,
+          "text_uthmani": "عَنِّى",
+          "transliteration": "ʿannī",
+          "translation_bn": "আমার থেকে",
+          "root": "—",
+          "lemma": "عَنِّى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 31931,
+          "position": 3,
+          "text_uthmani": "سُلْطَـٰنِيَهْ",
+          "transliteration": "sul'ṭāniyah",
+          "translation_bn": "আমার ক্ষমতা\"",
+          "root": "—",
+          "lemma": "سُلْطَـٰنِيَهْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 31932,
+          "position": 4,
+          "text_uthmani": "٢٩",
+          "transliteration": "",
+          "translation_bn": "(২৯)",
+          "root": "—",
+          "lemma": "٢٩",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 30,
+      "transliteration": "khudhūhu faghullūhu",
+      "translation_bn": "(তখন নির্দেশ আসবে) ধর ওকে, ওর গলায় ফাঁস লাগিয়ে দাও,",
+      "words": [
+        {
+          "id": 32812,
+          "position": 1,
+          "text_uthmani": "خُذُوهُ",
+          "transliteration": "khudhūhu",
+          "translation_bn": "\"তাকে ধর",
+          "root": "—",
+          "lemma": "خُذُوهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 32813,
+          "position": 2,
+          "text_uthmani": "فَغُلُّوهُ",
+          "transliteration": "faghullūhu",
+          "translation_bn": "তাকে বেড়ি অতংপর পরাও",
+          "root": "—",
+          "lemma": "فَغُلُّوهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 32814,
+          "position": 3,
+          "text_uthmani": "٣٠",
+          "transliteration": "",
+          "translation_bn": "(৩০)",
+          "root": "—",
+          "lemma": "٣٠",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 31,
+      "transliteration": "thumma l-jaḥīma ṣallūhu",
+      "translation_bn": "তারপর ছুড়ে ফেল ওকে জাহান্নামে,",
+      "words": [
+        {
+          "id": 33634,
+          "position": 1,
+          "text_uthmani": "ثُمَّ",
+          "transliteration": "thumma",
+          "translation_bn": "তারপর",
+          "root": "—",
+          "lemma": "ثُمَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 33635,
+          "position": 2,
+          "text_uthmani": "ٱلْجَحِيمَ",
+          "transliteration": "l-jaḥīma",
+          "translation_bn": "জাহান্নামে",
+          "root": "—",
+          "lemma": "ٱلْجَحِيمَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 33636,
+          "position": 3,
+          "text_uthmani": "صَلُّوهُ",
+          "transliteration": "ṣallūhu",
+          "translation_bn": "অগ্নিদগ্ধ কর.",
+          "root": "—",
+          "lemma": "صَلُّوهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 33637,
+          "position": 4,
+          "text_uthmani": "٣١",
+          "transliteration": "",
+          "translation_bn": "(৩১)",
+          "root": "—",
+          "lemma": "٣١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 32,
+      "transliteration": "thumma fī sil'silatin dharʿuhā sabʿūna dhirāʿan fa-us'lukūhu",
+      "translation_bn": "তারপর ওকে শিকল দিয়ে বাঁধ- সত্তর হাত দীর্ঘ এক শিকলে,",
+      "words": [
+        {
+          "id": 34520,
+          "position": 1,
+          "text_uthmani": "ثُمَّ",
+          "transliteration": "thumma",
+          "translation_bn": "তারপর",
+          "root": "—",
+          "lemma": "ثُمَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 34521,
+          "position": 2,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 34522,
+          "position": 3,
+          "text_uthmani": "سِلْسِلَةٍۢ",
+          "transliteration": "sil'silatin",
+          "translation_bn": "শিকল",
+          "root": "—",
+          "lemma": "سِلْسِلَةٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 34523,
+          "position": 4,
+          "text_uthmani": "ذَرْعُهَا",
+          "transliteration": "dharʿuhā",
+          "translation_bn": "তার দীর্ঘতা",
+          "root": "—",
+          "lemma": "ذَرْعُهَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 34524,
+          "position": 5,
+          "text_uthmani": "سَبْعُونَ",
+          "transliteration": "sabʿūna",
+          "translation_bn": "সত্তর",
+          "root": "—",
+          "lemma": "سَبْعُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 34525,
+          "position": 6,
+          "text_uthmani": "ذِرَاعًۭا",
+          "transliteration": "dhirāʿan",
+          "translation_bn": "হাত",
+          "root": "—",
+          "lemma": "ذِرَاعًۭا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 34526,
+          "position": 7,
+          "text_uthmani": "فَٱسْلُكُوهُ",
+          "transliteration": "fa-us'lukūhu",
+          "translation_bn": "অতংপর তাকে বেধে ফেল\"",
+          "root": "—",
+          "lemma": "فَٱسْلُكُوهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 34527,
+          "position": 8,
+          "text_uthmani": "٣٢",
+          "transliteration": "",
+          "translation_bn": "(৩২)",
+          "root": "—",
+          "lemma": "٣٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 33,
+      "transliteration": "innahu kāna lā yu'minu bil-lahi l-ʿaẓīmi",
+      "translation_bn": "সে মহান আল্লাহর উপর ঈমান আনেনি,",
+      "words": [
+        {
+          "id": 35527,
+          "position": 1,
+          "text_uthmani": "إِنَّهُۥ",
+          "transliteration": "innahu",
+          "translation_bn": "সে নিশ্চয়",
+          "root": "—",
+          "lemma": "إِنَّهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 35528,
+          "position": 2,
+          "text_uthmani": "كَانَ",
+          "transliteration": "kāna",
+          "translation_bn": "ছিল",
+          "root": "—",
+          "lemma": "كَانَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 35529,
+          "position": 3,
+          "text_uthmani": "لَا",
+          "transliteration": "lā",
+          "translation_bn": "না",
+          "root": "—",
+          "lemma": "لَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 35530,
+          "position": 4,
+          "text_uthmani": "يُؤْمِنُ",
+          "transliteration": "yu'minu",
+          "translation_bn": "বিশ্বাসী",
+          "root": "—",
+          "lemma": "يُؤْمِنُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 35531,
+          "position": 5,
+          "text_uthmani": "بِٱللَّهِ",
+          "transliteration": "bil-lahi",
+          "translation_bn": "আল্লাহতে",
+          "root": "—",
+          "lemma": "بِٱللَّهِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 35532,
+          "position": 6,
+          "text_uthmani": "ٱلْعَظِيمِ",
+          "transliteration": "l-ʿaẓīmi",
+          "translation_bn": "মহান,",
+          "root": "—",
+          "lemma": "ٱلْعَظِيمِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 35533,
+          "position": 7,
+          "text_uthmani": "٣٣",
+          "transliteration": "",
+          "translation_bn": "(৩৩)",
+          "root": "—",
+          "lemma": "٣٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 34,
+      "transliteration": "walā yaḥuḍḍu ʿalā ṭaʿāmi l-mis'kīni",
+      "translation_bn": "আর না সে মিসকীনকে খাবার খাওয়াতে উৎসাহ দিত,",
+      "words": [
+        {
+          "id": 36445,
+          "position": 1,
+          "text_uthmani": "وَلَا",
+          "transliteration": "walā",
+          "translation_bn": "আর (করেনি) না",
+          "root": "—",
+          "lemma": "وَلَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 36446,
+          "position": 2,
+          "text_uthmani": "يَحُضُّ",
+          "transliteration": "yaḥuḍḍu",
+          "translation_bn": "উৎসাহ দিত",
+          "root": "—",
+          "lemma": "يَحُضُّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 36447,
+          "position": 3,
+          "text_uthmani": "عَلَىٰ",
+          "transliteration": "ʿalā",
+          "translation_bn": "উপর",
+          "root": "—",
+          "lemma": "عَلَىٰ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 36448,
+          "position": 4,
+          "text_uthmani": "طَعَامِ",
+          "transliteration": "ṭaʿāmi",
+          "translation_bn": "খাওয়ানোর",
+          "root": "—",
+          "lemma": "طَعَامِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 36449,
+          "position": 5,
+          "text_uthmani": "ٱلْمِسْكِينِ",
+          "transliteration": "l-mis'kīni",
+          "translation_bn": "মিসকিনকে",
+          "root": "—",
+          "lemma": "ٱلْمِسْكِينِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 36450,
+          "position": 6,
+          "text_uthmani": "٣٤",
+          "transliteration": "",
+          "translation_bn": "(৩৪)",
+          "root": "—",
+          "lemma": "٣٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 35,
+      "transliteration": "falaysa lahu l-yawma hāhunā ḥamīmun",
+      "translation_bn": "কাজেই আজ এখানে তার কোন বন্ধু নেই,",
+      "words": [
+        {
+          "id": 37301,
+          "position": 1,
+          "text_uthmani": "فَلَيْسَ",
+          "transliteration": "falaysa",
+          "translation_bn": "নাই অতএব",
+          "root": "—",
+          "lemma": "فَلَيْسَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 37302,
+          "position": 2,
+          "text_uthmani": "لَهُ",
+          "transliteration": "lahu",
+          "translation_bn": "তার জন্য",
+          "root": "—",
+          "lemma": "لَهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 37303,
+          "position": 3,
+          "text_uthmani": "ٱلْيَوْمَ",
+          "transliteration": "l-yawma",
+          "translation_bn": "আজ",
+          "root": "—",
+          "lemma": "ٱلْيَوْمَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 37304,
+          "position": 4,
+          "text_uthmani": "هَـٰهُنَا",
+          "transliteration": "hāhunā",
+          "translation_bn": "এখানে",
+          "root": "—",
+          "lemma": "هَـٰهُنَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 37305,
+          "position": 5,
+          "text_uthmani": "حَمِيمٌۭ",
+          "transliteration": "ḥamīmun",
+          "translation_bn": "কোন অন্তরঙ্গ বন্ধু,",
+          "root": "—",
+          "lemma": "حَمِيمٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 37306,
+          "position": 6,
+          "text_uthmani": "٣٥",
+          "transliteration": "",
+          "translation_bn": "(৩৫)",
+          "root": "—",
+          "lemma": "٣٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 36,
+      "transliteration": "walā ṭaʿāmun illā min ghis'līnin",
+      "translation_bn": "ক্ষত হতে পড়া পুঁজ ছাড়া কোন খাদ্য নেই,",
+      "words": [
+        {
+          "id": 38032,
+          "position": 1,
+          "text_uthmani": "وَلَا",
+          "transliteration": "walā",
+          "translation_bn": "এবং না",
+          "root": "—",
+          "lemma": "وَلَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38033,
+          "position": 2,
+          "text_uthmani": "طَعَامٌ",
+          "transliteration": "ṭaʿāmun",
+          "translation_bn": "খাবার",
+          "root": "—",
+          "lemma": "طَعَامٌ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38034,
+          "position": 3,
+          "text_uthmani": "إِلَّا",
+          "transliteration": "illā",
+          "translation_bn": "ছাড়া",
+          "root": "—",
+          "lemma": "إِلَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38035,
+          "position": 4,
+          "text_uthmani": "مِنْ",
+          "transliteration": "min",
+          "translation_bn": "থেকে",
+          "root": "—",
+          "lemma": "مِنْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38036,
+          "position": 5,
+          "text_uthmani": "غِسْلِينٍۢ",
+          "transliteration": "ghis'līnin",
+          "translation_bn": "ক্ষতনিংস্রিত রস",
+          "root": "—",
+          "lemma": "غِسْلِينٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38037,
+          "position": 6,
+          "text_uthmani": "٣٦",
+          "transliteration": "",
+          "translation_bn": "(৩৬)",
+          "root": "—",
+          "lemma": "٣٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 37,
+      "transliteration": "lā yakuluhu illā l-khāṭiūna",
+      "translation_bn": "যা অপরাধীরা ছাড়া অন্য কেউ খায় না।",
+      "words": [
+        {
+          "id": 38955,
+          "position": 1,
+          "text_uthmani": "لَّا",
+          "transliteration": "lā",
+          "translation_bn": "না",
+          "root": "—",
+          "lemma": "لَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38956,
+          "position": 2,
+          "text_uthmani": "يَأْكُلُهُۥٓ",
+          "transliteration": "yakuluhu",
+          "translation_bn": "তা খায়",
+          "root": "—",
+          "lemma": "يَأْكُلُهُۥٓ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38957,
+          "position": 3,
+          "text_uthmani": "إِلَّا",
+          "transliteration": "illā",
+          "translation_bn": "ছাড়া",
+          "root": "—",
+          "lemma": "إِلَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38958,
+          "position": 4,
+          "text_uthmani": "ٱلْخَـٰطِـُٔونَ",
+          "transliteration": "l-khāṭiūna",
+          "translation_bn": "অপরাধীরা",
+          "root": "—",
+          "lemma": "ٱلْخَـٰطِـُٔونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 38959,
+          "position": 5,
+          "text_uthmani": "٣٧",
+          "transliteration": "",
+          "translation_bn": "(৩৭)",
+          "root": "—",
+          "lemma": "٣٧",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 38,
+      "transliteration": "falā uq'simu bimā tub'ṣirūna",
+      "translation_bn": "আমি কসম করছি সে সব জিনিসের যা তোমরা দেখতে পাও,",
+      "words": [
+        {
+          "id": 39803,
+          "position": 1,
+          "text_uthmani": "فَلَآ",
+          "transliteration": "falā",
+          "translation_bn": "না অতংপর",
+          "root": "—",
+          "lemma": "فَلَآ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 39804,
+          "position": 2,
+          "text_uthmani": "أُقْسِمُ",
+          "transliteration": "uq'simu",
+          "translation_bn": "আমি শপথ করে বলছি",
+          "root": "—",
+          "lemma": "أُقْسِمُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 39805,
+          "position": 3,
+          "text_uthmani": "بِمَا",
+          "transliteration": "bimā",
+          "translation_bn": "যা",
+          "root": "—",
+          "lemma": "بِمَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 39806,
+          "position": 4,
+          "text_uthmani": "تُبْصِرُونَ",
+          "transliteration": "tub'ṣirūna",
+          "translation_bn": "তুমি দেখো,",
+          "root": "—",
+          "lemma": "تُبْصِرُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 39807,
+          "position": 5,
+          "text_uthmani": "٣٨",
+          "transliteration": "",
+          "translation_bn": "(৩৮)",
+          "root": "—",
+          "lemma": "٣٨",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 39,
+      "transliteration": "wamā lā tub'ṣirūna",
+      "translation_bn": "আর (সে সব জিনিসেরও) যা তোমরা দেখতে পাও না",
+      "words": [
+        {
+          "id": 40595,
+          "position": 1,
+          "text_uthmani": "وَمَا",
+          "transliteration": "wamā",
+          "translation_bn": "এবং যা",
+          "root": "—",
+          "lemma": "وَمَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 40596,
+          "position": 2,
+          "text_uthmani": "لَا",
+          "transliteration": "lā",
+          "translation_bn": "না",
+          "root": "—",
+          "lemma": "لَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 40597,
+          "position": 3,
+          "text_uthmani": "تُبْصِرُونَ",
+          "transliteration": "tub'ṣirūna",
+          "translation_bn": "তুমি দেখো,",
+          "root": "—",
+          "lemma": "تُبْصِرُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 40598,
+          "position": 4,
+          "text_uthmani": "٣٩",
+          "transliteration": "",
+          "translation_bn": "(৩৯)",
+          "root": "—",
+          "lemma": "٣٩",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 40,
+      "transliteration": "innahu laqawlu rasūlin karīmin",
+      "translation_bn": "যে, অবশ্যই এ কুরআন এক মহা সম্মানিত রসূল [জিবরীল (আঃ)]-এর (বহন করে আনা) বাণী।",
+      "words": [
+        {
+          "id": 41152,
+          "position": 1,
+          "text_uthmani": "إِنَّهُۥ",
+          "transliteration": "innahu",
+          "translation_bn": "নিশ্চয় তা",
+          "root": "—",
+          "lemma": "إِنَّهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 41153,
+          "position": 2,
+          "text_uthmani": "لَقَوْلُ",
+          "transliteration": "laqawlu",
+          "translation_bn": "বানী অবশ্যই",
+          "root": "—",
+          "lemma": "لَقَوْلُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 41154,
+          "position": 3,
+          "text_uthmani": "رَسُولٍۢ",
+          "transliteration": "rasūlin",
+          "translation_bn": "একজন রসূল (এর)",
+          "root": "—",
+          "lemma": "رَسُولٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 41155,
+          "position": 4,
+          "text_uthmani": "كَرِيمٍۢ",
+          "transliteration": "karīmin",
+          "translation_bn": "সম্মানিত",
+          "root": "—",
+          "lemma": "كَرِيمٍۢ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 41156,
+          "position": 5,
+          "text_uthmani": "٤٠",
+          "transliteration": "",
+          "translation_bn": "(৪০)",
+          "root": "—",
+          "lemma": "٤٠",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 41,
+      "transliteration": "wamā huwa biqawli shāʿirin qalīlan mā tu'minūna",
+      "translation_bn": "তা কোন কবির কথা নয়, (কবির কথা তো) তোমরা বিশ্বাস করো না,",
+      "words": [
+        {
+          "id": 42179,
+          "position": 1,
+          "text_uthmani": "وَمَا",
+          "transliteration": "wamā",
+          "translation_bn": "এবং না",
+          "root": "—",
+          "lemma": "وَمَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 42180,
+          "position": 2,
+          "text_uthmani": "هُوَ",
+          "transliteration": "huwa",
+          "translation_bn": "তা",
+          "root": "—",
+          "lemma": "هُوَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 42181,
+          "position": 3,
+          "text_uthmani": "بِقَوْلِ",
+          "transliteration": "biqawli",
+          "translation_bn": "কথা",
+          "root": "—",
+          "lemma": "بِقَوْلِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 42182,
+          "position": 4,
+          "text_uthmani": "شَاعِرٍۢ ۚ",
+          "transliteration": "shāʿirin",
+          "translation_bn": "কবির",
+          "root": "—",
+          "lemma": "شَاعِرٍۢ ۚ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 42184,
+          "position": 5,
+          "text_uthmani": "قَلِيلًۭا",
+          "transliteration": "qalīlan",
+          "translation_bn": "কমই",
+          "root": "—",
+          "lemma": "قَلِيلًۭا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 42185,
+          "position": 6,
+          "text_uthmani": "مَّا",
+          "transliteration": "mā",
+          "translation_bn": "যা",
+          "root": "—",
+          "lemma": "مَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 42186,
+          "position": 7,
+          "text_uthmani": "تُؤْمِنُونَ",
+          "transliteration": "tu'minūna",
+          "translation_bn": "তোমরা ইমান আন",
+          "root": "—",
+          "lemma": "تُؤْمِنُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 42187,
+          "position": 8,
+          "text_uthmani": "٤١",
+          "transliteration": "",
+          "translation_bn": "(৪১)",
+          "root": "—",
+          "lemma": "٤١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 42,
+      "transliteration": "walā biqawli kāhinin qalīlan mā tadhakkarūna",
+      "translation_bn": "এটা কোন গণকের কথাও নয়, (গণকের কথায় তো) তোমরা নসীহত লাভ করো না।",
+      "words": [
+        {
+          "id": 43018,
+          "position": 1,
+          "text_uthmani": "وَلَا",
+          "transliteration": "walā",
+          "translation_bn": "এবং না",
+          "root": "—",
+          "lemma": "وَلَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43019,
+          "position": 2,
+          "text_uthmani": "بِقَوْلِ",
+          "transliteration": "biqawli",
+          "translation_bn": "বানী",
+          "root": "—",
+          "lemma": "بِقَوْلِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43020,
+          "position": 3,
+          "text_uthmani": "كَاهِنٍۢ ۚ",
+          "transliteration": "kāhinin",
+          "translation_bn": "কোন গণকের",
+          "root": "—",
+          "lemma": "كَاهِنٍۢ ۚ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43022,
+          "position": 4,
+          "text_uthmani": "قَلِيلًۭا",
+          "transliteration": "qalīlan",
+          "translation_bn": "কমই",
+          "root": "—",
+          "lemma": "قَلِيلًۭا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43023,
+          "position": 5,
+          "text_uthmani": "مَّا",
+          "transliteration": "mā",
+          "translation_bn": "যা",
+          "root": "—",
+          "lemma": "مَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43024,
+          "position": 6,
+          "text_uthmani": "تَذَكَّرُونَ",
+          "transliteration": "tadhakkarūna",
+          "translation_bn": "তোমরা উপদেশ গ্রহণ কর",
+          "root": "—",
+          "lemma": "تَذَكَّرُونَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43025,
+          "position": 7,
+          "text_uthmani": "٤٢",
+          "transliteration": "",
+          "translation_bn": "(৪২)",
+          "root": "—",
+          "lemma": "٤٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 43,
+      "transliteration": "tanzīlun min rabbi l-ʿālamīna",
+      "translation_bn": "এটা বিশ্ব জগতের প্রতিপালকের নিকট থেকে অবতীর্ণ,",
+      "words": [
+        {
+          "id": 43710,
+          "position": 1,
+          "text_uthmani": "تَنزِيلٌۭ",
+          "transliteration": "tanzīlun",
+          "translation_bn": "নাযিলকৃত",
+          "root": "—",
+          "lemma": "تَنزِيلٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43711,
+          "position": 2,
+          "text_uthmani": "مِّن",
+          "transliteration": "min",
+          "translation_bn": "থেকে",
+          "root": "—",
+          "lemma": "مِّن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43712,
+          "position": 3,
+          "text_uthmani": "رَّبِّ",
+          "transliteration": "rabbi",
+          "translation_bn": "রবের",
+          "root": "—",
+          "lemma": "رَّبِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43713,
+          "position": 4,
+          "text_uthmani": "ٱلْعَـٰلَمِينَ",
+          "transliteration": "l-ʿālamīna",
+          "translation_bn": "মহাবিশ্বের",
+          "root": "—",
+          "lemma": "ٱلْعَـٰلَمِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 43714,
+          "position": 5,
+          "text_uthmani": "٤٣",
+          "transliteration": "",
+          "translation_bn": "(৪৩)",
+          "root": "—",
+          "lemma": "٤٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 44,
+      "transliteration": "walaw taqawwala ʿalaynā baʿḍa l-aqāwīli",
+      "translation_bn": "নবী যদি কোন কথা নিজে রচনা করে আমার নামে চালিয়ে দিত,",
+      "words": [
+        {
+          "id": 44524,
+          "position": 1,
+          "text_uthmani": "وَلَوْ",
+          "transliteration": "walaw",
+          "translation_bn": "এবং যদি",
+          "root": "—",
+          "lemma": "وَلَوْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 44525,
+          "position": 2,
+          "text_uthmani": "تَقَوَّلَ",
+          "transliteration": "taqawwala",
+          "translation_bn": "কথা বানাত",
+          "root": "—",
+          "lemma": "تَقَوَّلَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 44526,
+          "position": 3,
+          "text_uthmani": "عَلَيْنَا",
+          "transliteration": "ʿalaynā",
+          "translation_bn": "আমাদের বিপক্ষে",
+          "root": "—",
+          "lemma": "عَلَيْنَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 44527,
+          "position": 4,
+          "text_uthmani": "بَعْضَ",
+          "transliteration": "baʿḍa",
+          "translation_bn": "কিছু",
+          "root": "—",
+          "lemma": "بَعْضَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 44528,
+          "position": 5,
+          "text_uthmani": "ٱلْأَقَاوِيلِ",
+          "transliteration": "l-aqāwīli",
+          "translation_bn": "কথা",
+          "root": "—",
+          "lemma": "ٱلْأَقَاوِيلِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 44529,
+          "position": 6,
+          "text_uthmani": "٤٤",
+          "transliteration": "",
+          "translation_bn": "(৪৪)",
+          "root": "—",
+          "lemma": "٤٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 45,
+      "transliteration": "la-akhadhnā min'hu bil-yamīni",
+      "translation_bn": "আমি অবশ্যই তার ডান হাত ধরে তাকে পাকড়াও করতাম,",
+      "words": [
+        {
+          "id": 45227,
+          "position": 1,
+          "text_uthmani": "لَأَخَذْنَا",
+          "transliteration": "la-akhadhnā",
+          "translation_bn": "অবশ্যই আমরা ধরতাম",
+          "root": "—",
+          "lemma": "لَأَخَذْنَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 45228,
+          "position": 2,
+          "text_uthmani": "مِنْهُ",
+          "transliteration": "min'hu",
+          "translation_bn": "তাকে",
+          "root": "—",
+          "lemma": "مِنْهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 45229,
+          "position": 3,
+          "text_uthmani": "بِٱلْيَمِينِ",
+          "transliteration": "bil-yamīni",
+          "translation_bn": "ডান হাত দ্বারা;",
+          "root": "—",
+          "lemma": "بِٱلْيَمِينِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 45230,
+          "position": 4,
+          "text_uthmani": "٤٥",
+          "transliteration": "",
+          "translation_bn": "(৪৫)",
+          "root": "—",
+          "lemma": "٤٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 46,
+      "transliteration": "thumma laqaṭaʿnā min'hu l-watīna",
+      "translation_bn": "তারপর অবশ্যই কেটে দিতাম তার হৃৎপিন্ডের শিরা,",
+      "words": [
+        {
+          "id": 45965,
+          "position": 1,
+          "text_uthmani": "ثُمَّ",
+          "transliteration": "thumma",
+          "translation_bn": "তারপর",
+          "root": "—",
+          "lemma": "ثُمَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 45966,
+          "position": 2,
+          "text_uthmani": "لَقَطَعْنَا",
+          "transliteration": "laqaṭaʿnā",
+          "translation_bn": "অবশ্যই আমরা কাটতাম",
+          "root": "—",
+          "lemma": "لَقَطَعْنَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 45967,
+          "position": 3,
+          "text_uthmani": "مِنْهُ",
+          "transliteration": "min'hu",
+          "translation_bn": "তার থেকে",
+          "root": "—",
+          "lemma": "مِنْهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 45968,
+          "position": 4,
+          "text_uthmani": "ٱلْوَتِينَ",
+          "transliteration": "l-watīna",
+          "translation_bn": "মহাধমনী.",
+          "root": "—",
+          "lemma": "ٱلْوَتِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 45969,
+          "position": 5,
+          "text_uthmani": "٤٦",
+          "transliteration": "",
+          "translation_bn": "(৪৬)",
+          "root": "—",
+          "lemma": "٤٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 47,
+      "transliteration": "famā minkum min aḥadin ʿanhu ḥājizīna",
+      "translation_bn": "অতঃপর তোমাদের মধ্যে এমন কেউ নেই যে, (আমার গোস্বা থেকে তাকে রক্ষা করার জন্য) বাধা সৃষ্টি করতে পারে।",
+      "words": [
+        {
+          "id": 46593,
+          "position": 1,
+          "text_uthmani": "فَمَا",
+          "transliteration": "famā",
+          "translation_bn": "এবং না",
+          "root": "—",
+          "lemma": "فَمَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 46594,
+          "position": 2,
+          "text_uthmani": "مِنكُم",
+          "transliteration": "minkum",
+          "translation_bn": "তোমাদের মধ্যে",
+          "root": "—",
+          "lemma": "مِنكُم",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 46595,
+          "position": 3,
+          "text_uthmani": "مِّنْ",
+          "transliteration": "min",
+          "translation_bn": "কোন",
+          "root": "—",
+          "lemma": "مِّنْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 46596,
+          "position": 4,
+          "text_uthmani": "أَحَدٍ",
+          "transliteration": "aḥadin",
+          "translation_bn": "কেও",
+          "root": "—",
+          "lemma": "أَحَدٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 46597,
+          "position": 5,
+          "text_uthmani": "عَنْهُ",
+          "transliteration": "ʿanhu",
+          "translation_bn": "[তার কাছ থেকে]",
+          "root": "—",
+          "lemma": "عَنْهُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 46598,
+          "position": 6,
+          "text_uthmani": "حَـٰجِزِينَ",
+          "transliteration": "ḥājizīna",
+          "translation_bn": "বিরতকারী",
+          "root": "—",
+          "lemma": "حَـٰجِزِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 46599,
+          "position": 7,
+          "text_uthmani": "٤٧",
+          "transliteration": "",
+          "translation_bn": "(৪৭)",
+          "root": "—",
+          "lemma": "٤٧",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 48,
+      "transliteration": "wa-innahu latadhkiratun lil'muttaqīna",
+      "translation_bn": "মুত্তাক্বীদের জন্য এ কুরআন অবশ্যই এক উপদেশ,",
+      "words": [
+        {
+          "id": 47088,
+          "position": 1,
+          "text_uthmani": "وَإِنَّهُۥ",
+          "transliteration": "wa-innahu",
+          "translation_bn": "এবং তা",
+          "root": "—",
+          "lemma": "وَإِنَّهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47089,
+          "position": 2,
+          "text_uthmani": "لَتَذْكِرَةٌۭ",
+          "transliteration": "latadhkiratun",
+          "translation_bn": "অবশ্যই উপদেশ",
+          "root": "—",
+          "lemma": "لَتَذْكِرَةٌۭ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47090,
+          "position": 3,
+          "text_uthmani": "لِّلْمُتَّقِينَ",
+          "transliteration": "lil'muttaqīna",
+          "translation_bn": "মুত্তাকীদের",
+          "root": "—",
+          "lemma": "لِّلْمُتَّقِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47091,
+          "position": 4,
+          "text_uthmani": "٤٨",
+          "transliteration": "",
+          "translation_bn": "(৪৮)",
+          "root": "—",
+          "lemma": "٤٨",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 49,
+      "transliteration": "wa-innā lanaʿlamu anna minkum mukadhibīna",
+      "translation_bn": "আমি অবশ্যই জানি যে, তোমাদের মধ্যে কতক লোক (কুরআনকে) অস্বীকার করবে।",
+      "words": [
+        {
+          "id": 47934,
+          "position": 1,
+          "text_uthmani": "وَإِنَّا",
+          "transliteration": "wa-innā",
+          "translation_bn": "এবং নিশ্চয় আমরা",
+          "root": "—",
+          "lemma": "وَإِنَّا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47935,
+          "position": 2,
+          "text_uthmani": "لَنَعْلَمُ",
+          "transliteration": "lanaʿlamu",
+          "translation_bn": "অবশ্যই জানি",
+          "root": "—",
+          "lemma": "لَنَعْلَمُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47936,
+          "position": 3,
+          "text_uthmani": "أَنَّ",
+          "transliteration": "anna",
+          "translation_bn": "যে",
+          "root": "—",
+          "lemma": "أَنَّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47937,
+          "position": 4,
+          "text_uthmani": "مِنكُم",
+          "transliteration": "minkum",
+          "translation_bn": "তোমাদের মধ্যে",
+          "root": "—",
+          "lemma": "مِنكُم",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47938,
+          "position": 5,
+          "text_uthmani": "مُّكَذِّبِينَ",
+          "transliteration": "mukadhibīna",
+          "translation_bn": "অস্বীকারকারীরা (সম্পূর্ণ).",
+          "root": "—",
+          "lemma": "مُّكَذِّبِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 47939,
+          "position": 6,
+          "text_uthmani": "٤٩",
+          "transliteration": "",
+          "translation_bn": "(৪৯)",
+          "root": "—",
+          "lemma": "٤٩",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 50,
+      "transliteration": "wa-innahu laḥasratun ʿalā l-kāfirīna",
+      "translation_bn": "আর এ কুরআন কাফিরদের জন্য অবশ্যই দুঃখ ও হতাশার কারণ হবে (যখন কুরআনে বর্ণিত শাস্তি তাদেরকে ঘিরে ধরবে)।",
+      "words": [
+        {
+          "id": 48697,
+          "position": 1,
+          "text_uthmani": "وَإِنَّهُۥ",
+          "transliteration": "wa-innahu",
+          "translation_bn": "এবং নিশ্চয় তা",
+          "root": "—",
+          "lemma": "وَإِنَّهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 48698,
+          "position": 2,
+          "text_uthmani": "لَحَسْرَةٌ",
+          "transliteration": "laḥasratun",
+          "translation_bn": "আক্ষেপের",
+          "root": "—",
+          "lemma": "لَحَسْرَةٌ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 48699,
+          "position": 3,
+          "text_uthmani": "عَلَى",
+          "transliteration": "ʿalā",
+          "translation_bn": "উপর",
+          "root": "—",
+          "lemma": "عَلَى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 48700,
+          "position": 4,
+          "text_uthmani": "ٱلْكَـٰفِرِينَ",
+          "transliteration": "l-kāfirīna",
+          "translation_bn": "কাফিরদের.",
+          "root": "—",
+          "lemma": "ٱلْكَـٰفِرِينَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 48701,
+          "position": 5,
+          "text_uthmani": "٥٠",
+          "transliteration": "",
+          "translation_bn": "(৫০)",
+          "root": "—",
+          "lemma": "٥٠",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 51,
+      "transliteration": "wa-innahu laḥaqqu l-yaqīni",
+      "translation_bn": "এটা একেবারে নিশ্চিত সত্য।",
+      "words": [
+        {
+          "id": 49239,
+          "position": 1,
+          "text_uthmani": "وَإِنَّهُۥ",
+          "transliteration": "wa-innahu",
+          "translation_bn": "ও নিশ্চয় তা",
+          "root": "—",
+          "lemma": "وَإِنَّهُۥ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 49240,
+          "position": 2,
+          "text_uthmani": "لَحَقُّ",
+          "transliteration": "laḥaqqu",
+          "translation_bn": "অবশ্যই সত্য",
+          "root": "—",
+          "lemma": "لَحَقُّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 49241,
+          "position": 3,
+          "text_uthmani": "ٱلْيَقِينِ",
+          "transliteration": "l-yaqīni",
+          "translation_bn": "সুনিশ্চিত",
+          "root": "—",
+          "lemma": "ٱلْيَقِينِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 49242,
+          "position": 4,
+          "text_uthmani": "٥١",
+          "transliteration": "",
+          "translation_bn": "(৫১)",
+          "root": "—",
+          "lemma": "٥١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 69,
+      "ayah": 52,
+      "transliteration": "fasabbiḥ bi-is'mi rabbika l-ʿaẓīmi",
+      "translation_bn": "অতএব তুমি তোমার মহান প্রতিপালকের নামের পবিত্রতা ও মহিমা বর্ণনা কর।",
+      "words": [
+        {
+          "id": 49973,
+          "position": 1,
+          "text_uthmani": "فَسَبِّحْ",
+          "transliteration": "fasabbiḥ",
+          "translation_bn": "অতএব তাসবীহ পাঠ কর",
+          "root": "—",
+          "lemma": "فَسَبِّحْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 49974,
+          "position": 2,
+          "text_uthmani": "بِٱسْمِ",
+          "transliteration": "bi-is'mi",
+          "translation_bn": "নামের",
+          "root": "—",
+          "lemma": "بِٱسْمِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 49975,
+          "position": 3,
+          "text_uthmani": "رَبِّكَ",
+          "transliteration": "rabbika",
+          "translation_bn": "তোমার রবের",
+          "root": "—",
+          "lemma": "رَبِّكَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 49976,
+          "position": 4,
+          "text_uthmani": "ٱلْعَظِيمِ",
+          "transliteration": "l-ʿaẓīmi",
+          "translation_bn": "মহান",
+          "root": "—",
+          "lemma": "ٱلْعَظِيمِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 49977,
+          "position": 5,
+          "text_uthmani": "٥٢",
+          "transliteration": "",
+          "translation_bn": "(৫২)",
+          "root": "—",
+          "lemma": "٥٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

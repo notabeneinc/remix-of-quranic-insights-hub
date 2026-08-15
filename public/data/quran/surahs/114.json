@@ -1,0 +1,313 @@
+{
+  "surah": 114,
+  "ayahs": [
+    {
+      "surah": 114,
+      "ayah": 1,
+      "transliteration": "qul aʿūdhu birabbi l-nāsi",
+      "translation_bn": "বল, ‘আমি আশ্রয় চাচ্ছি মানুষের প্রতিপালকের,",
+      "words": [
+        {
+          "id": 115,
+          "position": 1,
+          "text_uthmani": "قُلْ",
+          "transliteration": "qul",
+          "translation_bn": "বলো",
+          "root": "—",
+          "lemma": "قُلْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 116,
+          "position": 2,
+          "text_uthmani": "أَعُوذُ",
+          "transliteration": "aʿūdhu",
+          "translation_bn": "\"আমি আশ্রয় চাই",
+          "root": "—",
+          "lemma": "أَعُوذُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 117,
+          "position": 3,
+          "text_uthmani": "بِرَبِّ",
+          "transliteration": "birabbi",
+          "translation_bn": "রবের নিকট",
+          "root": "—",
+          "lemma": "بِرَبِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 118,
+          "position": 4,
+          "text_uthmani": "ٱلنَّاسِ",
+          "transliteration": "l-nāsi",
+          "translation_bn": "মানুষের",
+          "root": "—",
+          "lemma": "ٱلنَّاسِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 119,
+          "position": 5,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 114,
+      "ayah": 2,
+      "transliteration": "maliki l-nāsi",
+      "translation_bn": "মানুষের অধিপতির,",
+      "words": [
+        {
+          "id": 932,
+          "position": 1,
+          "text_uthmani": "مَلِكِ",
+          "transliteration": "maliki",
+          "translation_bn": "মহা অধিপতির (নিকট)",
+          "root": "—",
+          "lemma": "مَلِكِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 933,
+          "position": 2,
+          "text_uthmani": "ٱلنَّاسِ",
+          "transliteration": "l-nāsi",
+          "translation_bn": "মানুষের",
+          "root": "—",
+          "lemma": "ٱلنَّاسِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 934,
+          "position": 3,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 114,
+      "ayah": 3,
+      "transliteration": "ilāhi l-nāsi",
+      "translation_bn": "মানুষের প্রকৃত ইলাহর,",
+      "words": [
+        {
+          "id": 2819,
+          "position": 1,
+          "text_uthmani": "إِلَـٰهِ",
+          "transliteration": "ilāhi",
+          "translation_bn": "ইলাহ্‌র (নিকট)",
+          "root": "—",
+          "lemma": "إِلَـٰهِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2820,
+          "position": 2,
+          "text_uthmani": "ٱلنَّاسِ",
+          "transliteration": "l-nāsi",
+          "translation_bn": "মানুষের",
+          "root": "—",
+          "lemma": "ٱلنَّاسِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2821,
+          "position": 3,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 114,
+      "ayah": 4,
+      "transliteration": "min sharri l-waswāsi l-khanāsi",
+      "translation_bn": "যে নিজেকে লুকিয়ে রেখে বার বার এসে কুমন্ত্রণা দেয় তার অনিষ্ট হতে,",
+      "words": [
+        {
+          "id": 4131,
+          "position": 1,
+          "text_uthmani": "مِن",
+          "transliteration": "min",
+          "translation_bn": "হতে",
+          "root": "—",
+          "lemma": "مِن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4132,
+          "position": 2,
+          "text_uthmani": "شَرِّ",
+          "transliteration": "sharri",
+          "translation_bn": "অমঙ্গল",
+          "root": "—",
+          "lemma": "شَرِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4133,
+          "position": 3,
+          "text_uthmani": "ٱلْوَسْوَاسِ",
+          "transliteration": "l-waswāsi",
+          "translation_bn": "কুমন্ত্রণার",
+          "root": "—",
+          "lemma": "ٱلْوَسْوَاسِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4134,
+          "position": 4,
+          "text_uthmani": "ٱلْخَنَّاسِ",
+          "transliteration": "l-khanāsi",
+          "translation_bn": "আত্নগোপনকারী",
+          "root": "—",
+          "lemma": "ٱلْخَنَّاسِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4135,
+          "position": 5,
+          "text_uthmani": "٤",
+          "transliteration": "",
+          "translation_bn": "(৪)",
+          "root": "—",
+          "lemma": "٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 114,
+      "ayah": 5,
+      "transliteration": "alladhī yuwaswisu fī ṣudūri l-nāsi",
+      "translation_bn": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে",
+      "words": [
+        {
+          "id": 5496,
+          "position": 1,
+          "text_uthmani": "ٱلَّذِى",
+          "transliteration": "alladhī",
+          "translation_bn": "যে",
+          "root": "—",
+          "lemma": "ٱلَّذِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5497,
+          "position": 2,
+          "text_uthmani": "يُوَسْوِسُ",
+          "transliteration": "yuwaswisu",
+          "translation_bn": "কুমন্ত্রণা দেয়",
+          "root": "—",
+          "lemma": "يُوَسْوِسُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5498,
+          "position": 3,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5499,
+          "position": 4,
+          "text_uthmani": "صُدُورِ",
+          "transliteration": "ṣudūri",
+          "translation_bn": "অন্তরসমূহের",
+          "root": "—",
+          "lemma": "صُدُورِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5500,
+          "position": 5,
+          "text_uthmani": "ٱلنَّاسِ",
+          "transliteration": "l-nāsi",
+          "translation_bn": "মানুষের",
+          "root": "—",
+          "lemma": "ٱلنَّاسِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5501,
+          "position": 6,
+          "text_uthmani": "٥",
+          "transliteration": "",
+          "translation_bn": "(৫)",
+          "root": "—",
+          "lemma": "٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 114,
+      "ayah": 6,
+      "transliteration": "mina l-jinati wal-nāsi",
+      "translation_bn": "(এই কুমন্ত্রণাদাতা হচ্ছে) জিন্নের মধ্য হতে এবং মানুষের মধ্য হতে।",
+      "words": [
+        {
+          "id": 6729,
+          "position": 1,
+          "text_uthmani": "مِنَ",
+          "transliteration": "mina",
+          "translation_bn": "মধ্য হতে",
+          "root": "—",
+          "lemma": "مِنَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6730,
+          "position": 2,
+          "text_uthmani": "ٱلْجِنَّةِ",
+          "transliteration": "l-jinati",
+          "translation_bn": "জিনের",
+          "root": "—",
+          "lemma": "ٱلْجِنَّةِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6731,
+          "position": 3,
+          "text_uthmani": "وَٱلنَّاسِ",
+          "transliteration": "wal-nāsi",
+          "translation_bn": "ও মানুষের",
+          "root": "—",
+          "lemma": "وَٱلنَّاسِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 6732,
+          "position": 4,
+          "text_uthmani": "٦",
+          "transliteration": "",
+          "translation_bn": "(৬)",
+          "root": "—",
+          "lemma": "٦",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}

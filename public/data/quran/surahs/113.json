@@ -1,0 +1,325 @@
+{
+  "surah": 113,
+  "ayahs": [
+    {
+      "surah": 113,
+      "ayah": 1,
+      "transliteration": "qul aʿūdhu birabbi l-falaqi",
+      "translation_bn": "বল, ‘আমি আশ্রয় চাচ্ছি সকাল বেলার রব-এর,",
+      "words": [
+        {
+          "id": 215,
+          "position": 1,
+          "text_uthmani": "قُلْ",
+          "transliteration": "qul",
+          "translation_bn": "বলো",
+          "root": "—",
+          "lemma": "قُلْ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 216,
+          "position": 2,
+          "text_uthmani": "أَعُوذُ",
+          "transliteration": "aʿūdhu",
+          "translation_bn": "\"আমি আশ্রয় চাই",
+          "root": "—",
+          "lemma": "أَعُوذُ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 217,
+          "position": 3,
+          "text_uthmani": "بِرَبِّ",
+          "transliteration": "birabbi",
+          "translation_bn": "স্রষ্টার নিকট",
+          "root": "—",
+          "lemma": "بِرَبِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 218,
+          "position": 4,
+          "text_uthmani": "ٱلْفَلَقِ",
+          "transliteration": "l-falaqi",
+          "translation_bn": "প্রভাতের",
+          "root": "—",
+          "lemma": "ٱلْفَلَقِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 219,
+          "position": 5,
+          "text_uthmani": "١",
+          "transliteration": "",
+          "translation_bn": "(১)",
+          "root": "—",
+          "lemma": "١",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 113,
+      "ayah": 2,
+      "transliteration": "min sharri mā khalaqa",
+      "translation_bn": "তিনি যা সৃষ্টি করেছেন তার অনিষ্ট হতে,",
+      "words": [
+        {
+          "id": 969,
+          "position": 1,
+          "text_uthmani": "مِن",
+          "transliteration": "min",
+          "translation_bn": "হতে",
+          "root": "—",
+          "lemma": "مِن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 970,
+          "position": 2,
+          "text_uthmani": "شَرِّ",
+          "transliteration": "sharri",
+          "translation_bn": "অনিষ্ট",
+          "root": "—",
+          "lemma": "شَرِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 971,
+          "position": 3,
+          "text_uthmani": "مَا",
+          "transliteration": "mā",
+          "translation_bn": "যা",
+          "root": "—",
+          "lemma": "مَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 972,
+          "position": 4,
+          "text_uthmani": "خَلَقَ",
+          "transliteration": "khalaqa",
+          "translation_bn": "তিনি সৃষ্টি করেছেন",
+          "root": "—",
+          "lemma": "خَلَقَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 973,
+          "position": 5,
+          "text_uthmani": "٢",
+          "transliteration": "",
+          "translation_bn": "(২)",
+          "root": "—",
+          "lemma": "٢",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 113,
+      "ayah": 3,
+      "transliteration": "wamin sharri ghāsiqin idhā waqaba",
+      "translation_bn": "আর অন্ধকার রাতের অনিষ্ট হতে যখন তা আচ্ছন্ন হয়ে যায়।",
+      "words": [
+        {
+          "id": 2793,
+          "position": 1,
+          "text_uthmani": "وَمِن",
+          "transliteration": "wamin",
+          "translation_bn": "এবং হতে",
+          "root": "—",
+          "lemma": "وَمِن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2794,
+          "position": 2,
+          "text_uthmani": "شَرِّ",
+          "transliteration": "sharri",
+          "translation_bn": "অনিষ্ট",
+          "root": "—",
+          "lemma": "شَرِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2795,
+          "position": 3,
+          "text_uthmani": "غَاسِقٍ",
+          "transliteration": "ghāsiqin",
+          "translation_bn": "রাতের অন্ধকারের",
+          "root": "—",
+          "lemma": "غَاسِقٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2796,
+          "position": 4,
+          "text_uthmani": "إِذَا",
+          "transliteration": "idhā",
+          "translation_bn": "যখন",
+          "root": "—",
+          "lemma": "إِذَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2797,
+          "position": 5,
+          "text_uthmani": "وَقَبَ",
+          "transliteration": "waqaba",
+          "translation_bn": "তা গভীর হয়",
+          "root": "—",
+          "lemma": "وَقَبَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 2798,
+          "position": 6,
+          "text_uthmani": "٣",
+          "transliteration": "",
+          "translation_bn": "(৩)",
+          "root": "—",
+          "lemma": "٣",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 113,
+      "ayah": 4,
+      "transliteration": "wamin sharri l-nafāthāti fī l-ʿuqadi",
+      "translation_bn": "এবং (জাদু করার উদ্দেশ্যে) গিরায় ফুৎকারকারিণীদের অনিষ্ট হতে,",
+      "words": [
+        {
+          "id": 4181,
+          "position": 1,
+          "text_uthmani": "وَمِن",
+          "transliteration": "wamin",
+          "translation_bn": "এবং হতে",
+          "root": "—",
+          "lemma": "وَمِن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4182,
+          "position": 2,
+          "text_uthmani": "شَرِّ",
+          "transliteration": "sharri",
+          "translation_bn": "অনিষ্ট",
+          "root": "—",
+          "lemma": "شَرِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4183,
+          "position": 3,
+          "text_uthmani": "ٱلنَّفَّـٰثَـٰتِ",
+          "transliteration": "l-nafāthāti",
+          "translation_bn": "ফুঁকদানকারীর (রাতের) অনিষ্ট",
+          "root": "—",
+          "lemma": "ٱلنَّفَّـٰثَـٰتِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4184,
+          "position": 4,
+          "text_uthmani": "فِى",
+          "transliteration": "fī",
+          "translation_bn": "মধ্যে",
+          "root": "—",
+          "lemma": "فِى",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4185,
+          "position": 5,
+          "text_uthmani": "ٱلْعُقَدِ",
+          "transliteration": "l-ʿuqadi",
+          "translation_bn": "গিঁটগুলোর",
+          "root": "—",
+          "lemma": "ٱلْعُقَدِ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 4186,
+          "position": 6,
+          "text_uthmani": "٤",
+          "transliteration": "",
+          "translation_bn": "(৪)",
+          "root": "—",
+          "lemma": "٤",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    },
+    {
+      "surah": 113,
+      "ayah": 5,
+      "transliteration": "wamin sharri ḥāsidin idhā ḥasada",
+      "translation_bn": "এবং হিংসুকের অনিষ্ট হতে, যখন সে হিংসা করে।",
+      "words": [
+        {
+          "id": 5473,
+          "position": 1,
+          "text_uthmani": "وَمِن",
+          "transliteration": "wamin",
+          "translation_bn": "এবং হতে",
+          "root": "—",
+          "lemma": "وَمِن",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5474,
+          "position": 2,
+          "text_uthmani": "شَرِّ",
+          "transliteration": "sharri",
+          "translation_bn": "অনিষ্ট",
+          "root": "—",
+          "lemma": "شَرِّ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5475,
+          "position": 3,
+          "text_uthmani": "حَاسِدٍ",
+          "transliteration": "ḥāsidin",
+          "translation_bn": "হিংসুকের",
+          "root": "—",
+          "lemma": "حَاسِدٍ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5476,
+          "position": 4,
+          "text_uthmani": "إِذَا",
+          "transliteration": "idhā",
+          "translation_bn": "যখন",
+          "root": "—",
+          "lemma": "إِذَا",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5477,
+          "position": 5,
+          "text_uthmani": "حَسَدَ",
+          "transliteration": "ḥasada",
+          "translation_bn": "সে হিংসা করে\"",
+          "root": "—",
+          "lemma": "حَسَدَ",
+          "grammar_bn": "শব্দ"
+        },
+        {
+          "id": 5478,
+          "position": 6,
+          "text_uthmani": "٥",
+          "transliteration": "",
+          "translation_bn": "(৫)",
+          "root": "—",
+          "lemma": "٥",
+          "grammar_bn": "মার্কার"
+        }
+      ]
+    }
+  ]
+}
